@@ -14,7 +14,8 @@
       </div>
     </header>
     
-    <main><p>At the command prompt, type <code>nano</code>.</p>
+    <main><p>test6</p>
+<p>At the command prompt, type <code>nano</code>.</p>
 <h2>Heading level 2</h2>
 <hr>
 <p><a href="https://www.markdownguide.org">https://www.markdownguide.org</a></p>
