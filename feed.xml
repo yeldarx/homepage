@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://yeldar.org/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Елдар Құдайбергенов</title>
+    <link>https://yeldar.org/</link>
+    <atom:link href="https://yeldar.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Елдар Құдайбергеновтың сайты, блогы</description>
+    <language>kk</language>
+      <item>
+        <title>Подкастиңдегі жаңа қадамдар</title>
+        <link>https://yeldar.org/pod-new-steps</link>
+        <description>&lt;p&gt;2019 жылдан бері кәсіби түрде подкастиңмен айналысамын. 2023 жылдан бастап уеб-бағдарламалауды меңгеруді бастадым. Соңғы кезде подкастиңге уақыт аз болып жүргені рас. Мен саналы түрде подкастарымды жариялауды азайтып, бағдарламалауға көбірек уақыт бөліп жүрмін.&lt;/p&gt;
+&lt;p&gt;Осыдан бір ай бұрын &amp;quot;Қазақстан подкастиңін қорғап, оны көпшілікке тарату жолында істей алғанымша істедім ғой, енді болар&amp;quot; деген ойға келгенмін. Оған себеп болған QazPodcast-тың &amp;quot;Соңғы жорық&amp;quot; деген эпизодында баяндалған оқиға. Бірақ, Құдай оңдап, психологым қолдап, бұл белестен жаңа бір жол таба алғандаймын.&lt;/p&gt;
+&lt;p&gt;Қысқасы, осы кезге дейін подкастиң саласында жиған тәжирибемді ысырып тастау қате болар деген шешімге келдім, жалпы подкастерлік ісіме көзқарасымды өзгерткенім дұрыс болады екен. Қазір діттеп отырған бірнеше қадам бар:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[x] 2019 жылдан бері подкастиң тақырыбына қатысты жиған кітаптарымның барлығын Астанадағы ҚР Ұлттық академиялық кітапханасына өткіземін (&lt;a href=&quot;https://yeldar.org/blog/2023/12/29/books-in-library&quot;&gt;өткіздім&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;[ ] 2024 жылы қаңтар мен наурыз аралығында подкастиң бойынша ашық, тегін курс өткізгім келеді;&lt;/li&gt;
+&lt;li&gt;[ ] 2024 жылғы Қазақстан подкастерлері құрылтайын офлайн өткізу (демеуші керек).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Мен осыған дейін подкастиңге қатысты жасаған бірталай қатемді түсініп, түзетуге әрекет етіп жатырмын. Мысалы, бұрын мен подкаст емес нәрселерге көп қарасам, енді назарым қазақстандық подкастар мен подкастерлерде болмақ. Бұрын мен Қазақстан подкастиңіне қатысты көбіне &amp;quot;қорғау&amp;quot;, &amp;quot;тарату&amp;quot; деген етістіктерді қолдансам, енді олардың орнын &amp;quot;дамыту&amp;quot; сөзі басады. Осы сөздің арқасында бірталай іске деген көзқарасым өзгерді. Бұл өзгерісті парадигмалық өзгеріс деуге де болатын шығар.&lt;/p&gt;
+&lt;h3&gt;Сілтемелер&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;QazPodcast, 24 - &lt;a href=&quot;https://feeds.podcasting.center/podcast/24-last-march&quot;&gt;&amp;quot;Соңғы жорық&amp;quot;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yeldar.org/quryltai&quot;&gt;Қазақстан подкастерлері құрылтайы&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nabrk.kz/&quot;&gt;Ұлттық академиялық кітапхана&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/pod-new-steps</guid>
+      </item>
+      <item>
+        <title>Git кітап жазу құралы бола алады… екен</title>
+        <link>https://yeldar.org/git-book-writing</link>
+        <description>&lt;p&gt;Бұрыннан бері ойлап жүрген бір іс ол подкастиң туралы кітап жазу. Осы ойымды іске асыру үшін биыл нақты қадамдар жасап бастадым. Ең алдымен Git бойынша &lt;a href=&quot;https://k.yeldar.org/gitintro&quot;&gt;кіріспе курстан&lt;/a&gt; өттім. Сосын GitHub-та сол кітапқа арнап &lt;em&gt;private&lt;/em&gt; репозиторий аштым. Енді кітапқа қатысты барлығын сол жерге жазып, жүктеп жүрмін.&lt;/p&gt;
+&lt;p&gt;Git туралы курсты оқып бастағанда мен ол тек қана бағдарламашыларға арналған құрал екен деп ойлағанмын. Сосын түсінгенімдей Git-ті кез келген адам өз қажетіне байланысты бейімдей алады екен.
+Гитхабта кітап жазудың қандай жақсы жақтары бар?&lt;/p&gt;
+&lt;p&gt;Ең алдымен Git-ке жазып, сақтаған нәрсе өзіңіз қазып жүріп өшірмесеңіз кездейсоқ, &amp;quot;өзінен өзі&amp;quot; өшпейді. Бұл Git-тің ең басты қасиеттеріңін бірі: ол жерге жазылған нәрсе жобаның тарихында сақталып тұрады.&lt;/p&gt;
+&lt;p&gt;Мен Git-ті GitHub-пен бірге қолданамын, сондықтан кітабымды кез келген құрылғыдан жазуға мүмкіндік бар. GitHub-тың телефонға арналған қолданбасы бар, оған қоса телефонның броузерінен кіріп жаза беруге болады.&lt;/p&gt;
+&lt;p&gt;Кітап беттері &lt;code&gt;.md&lt;/code&gt; пішімінде жазылады. Мәтіндер басында &lt;code&gt;README.md&lt;/code&gt; файлында жазылады да, кейін әр тарау жаңа файл болып бөлініп шығады.&lt;/p&gt;
+&lt;p&gt;Кітапты күніге жазуға &lt;em&gt;тырысамын&lt;/em&gt; (қиын). Жазып болған соң бәрін сақтап, коммит жасап отырамын.&lt;/p&gt;
+&lt;p&gt;Болашақта кітапты редактор, корректорлар қарағанда да өте ыңғайлы болады деп ойлаймын.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/git-book-writing</guid>
+      </item>
+      <item>
+        <title>codingPath - 0</title>
+        <link>https://yeldar.org/codingPath-0</link>
+        <description>&lt;p&gt;&lt;a href=&quot;https://yeldar.org/tags/codingpath&quot;&gt;codingPath&lt;/a&gt; – мен осы блогта бағдарламалауды үйрену барысын сипаттап жазатын постарды біріктіретін &lt;a href=&quot;https://en.wikipedia.org/wiki/Tag_(metadata)&quot;&gt;тег&lt;/a&gt;. Аптасына бір пост жазып тұру ойда бар. Бұл біріншіден өзіме пайдалы іс (қазақша мәтін жазып үйренемін, оқу барысы бойынша есеп, жеке блогым дамиды), екіншіден бағдарламалауды үйреніп бастаған адамдарға да пайдалы болуы мүмкін.&lt;/p&gt;
+&lt;p&gt;Бұл жазбалар әзірге күнделікке ұқсайды. Бірақ қандай болса да, бірдеңеден бастау керек. Не істесем де кодиңді үйренуді тоқтатпасам болды.&lt;/p&gt;
+&lt;p&gt;Мен қазір The Odin Project-тің &lt;a href=&quot;https://www.theodinproject.com/paths/foundations/courses/foundations&quot;&gt;кіріспе&lt;/a&gt; курсын өтіп жатырмын. Осы курсты бітірген соң &lt;a href=&quot;https://www.theodinproject.com/paths/full-stack-javascript&quot;&gt;Full Stack JavaScript&lt;/a&gt; жолына шығамын деп отырмын. Одан кейін барып &lt;a href=&quot;https://fullstackopen.com/&quot;&gt;Full Stack Open&lt;/a&gt;-ді қолға аламын.&lt;/p&gt;
+&lt;p&gt;Осы тегке қатысты қосымша контент жарияланатын &lt;a href=&quot;https://k.yeldar.org/cp&quot;&gt;codingPath additional content&lt;/a&gt; деген подкаст бастап қойдым.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-0</guid>
+      </item>
+      <item>
+        <title>codingPath - 1</title>
+        <link>https://yeldar.org/codingPath-1</link>
+        <description>&lt;h2&gt;06-12.11.2023&lt;/h2&gt;
+&lt;p&gt;Жексенбі күні керемет жетістікке жеттім. Мен осы сайтты толығымен жасап шықтым. Осыдан бірталай жыл бұрын Рахимнің сайты статикаға ауысқанын көргенде, ол маған қатты ұнаған. Одан бері сайтымның статикалық түрін бірнеше рет жасап көрдім, бірақ мен ойлағандай нәтиже болмады. Себебі, меніңше жалпы бұл құрылым қалай істейтінін түсінбегендігімнен болар. Қаншама видео мен нұсқаулықтар бойынша жасағаныммен, нәтижесі менің көңілімнен шықпады.&lt;/p&gt;
+&lt;p&gt;Ең алдымен &lt;a href=&quot;https://yeldar.org/blog/2023/11/01/git-for-book-writing&quot;&gt;мына&lt;/a&gt; постта жазғанымдай Git-пен жұмыс істеп үйрендім, ал ол үшін &lt;em&gt;командалық жолды&lt;/em&gt; үйрені керек. Сосын Github Pages қалай жұмыс істейтінін білдім. Осыларды азды-көпті меңгерген соң ғана менің назарыма &lt;a href=&quot;https://docusaurus.io/&quot;&gt;Docusaurus&lt;/a&gt; түсті. Мен оны локалды іске асыра алсам да, Github Pages-ке &lt;em&gt;деплой&lt;/em&gt; жасағанда проблемалар көп болды. Мәселені &lt;a href=&quot;https://www.youtube.com/watch?v=I-hYKNgaMmE&quot;&gt;мына&lt;/a&gt; видео шешті. Енді бәрі ойдағыдай істеп тұр.&lt;/p&gt;
+&lt;!--truncate--&gt;
+&lt;h3&gt;Дүйсенбі&lt;/h3&gt;
+&lt;p&gt;Бұл күні кодиңге уақыт бөле алмадым. Ертеңгісін Сәбит Жақсылықов қатысқан &lt;a href=&quot;https://balqaimaq.podcasting.center/&quot;&gt;Balqaimaq&lt;/a&gt;-тың эпизодын түсірдік. Түсте жаттығу залына бардым. Тренермен бір сағаттай жұмыс істедік. Үйге келіп тамақтандым. Бір мызғып алайын деп жатқаным сол екен, баланы бақшадан алу уақыты келіпті. Бұл кодиңді бала ұйықтағанша ұмыту деген сөз.&lt;/p&gt;
+&lt;p&gt;Негізі күндіз бір мызғып алған жақсы, бірақ ұзақ ұйықтап қойсаң терең түнге дейін ұйқы жоқ. Түнге таяу осы сайтқа қатысты жұмыстарымды істеп ертерек жатуға тырыстым. Ұйқым келмеді. Төсекке жатып кітап оқыдым. Шамамен жарты сағаттан кейін көзім іліне бастады. Бірақ ары қарай дұрыстап ұйықтау бұйырмаған екен - баламыздың ыстығы көтерілгенін көрдік. Содан ем-домын жасап болғанша таңғы беске таяды. Бала ертең балабақшаға бармайтынын түсініп, оятқыштың бәрін сөндіріп ұйықтап кеттік...&lt;/p&gt;
+&lt;h3&gt;Сейсенбі&lt;/h3&gt;
+&lt;p&gt;Жоспар бойынша Мадина Шариповамен кездес іп UpWork туралы сөйлесуім керек еді. Мақсат &lt;a href=&quot;https://podcasting.center/&quot;&gt;Подкастиң орталығын&lt;/a&gt; әлемдік нарыққа шығару. Алдымен аудиоредактурамен айналысамыз деп отырмын. Бірақ кеше оятқыштың бәрін өшіріп тастаған соң, біз сағат онға таман ғана ояндық. Дереу Мадинаға хабарласып, жағдайды түсіндіріп едім, ол тағы күте алатынан айтты. Discovery Coffee-дегі кездесу сағат онда емес, он бірде басталды. Содан екі сағат ұзақ әңгіме айттық. Екеуіміздің бір-бірімізге маман ретінде әкелер пайдамыз мол екенін түсіндім. Алдағы аптада Мадина менен сұхбат алатын болды. Мадинаны шығарып салып, мен сол жерден таңғы асымды іштім: тауық еті мен саңырауқұлақ қосылған Патша омлеті, Испан чизкейкі және Ташкент шайы әдемі кетті.&lt;/p&gt;
+&lt;p&gt;Әдетте кофеханаларда адамдар абыр-дабыр сөйлесіп, музыка ойнап тұрғандықтан жұмыс істеу қиын. Ал музыканың үстіне музыка қосу біз күткеннен кері әсер береді. Шешім - &amp;quot;white noise&amp;quot; қосу, оның түрі көп. Маған &lt;a href=&quot;https://www.youtube.com/watch?v=nMfPqeZjc2c&quot;&gt;мына&lt;/a&gt; нұсқа жақсы көмектеседі.&lt;/p&gt;
+&lt;p&gt;Енді оқуға кірісуге де болады. Бүгінгі бірінші сабақ &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-working-with-text&quot;&gt;&amp;quot;Working with Text&amp;quot;&lt;/a&gt; деп аталады мен оны жетік меңгергенмін. Сондықтан бір қарап шыға салдым. Бұл HTML-де мәтінмен жұмыс жасаудағы негіз (base).&lt;/p&gt;
+&lt;p&gt;Содан кейінгі сабақты да мен жақсы білемін - &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-lists&quot;&gt;Lists&lt;/a&gt;. Сондықтан мәтінін оқып шықтым да, GitHub-та арнайы репозиторий ашып, осы сабақтың тапсырмасын орындап, сол жерге &lt;a href=&quot;https://yeldar.org/TOP/foundations/lia/lists.html&quot;&gt;жүктеп&lt;/a&gt; қойдым.&lt;/p&gt;
+&lt;p&gt;Мен жақсы білетін тағы бір сабақ &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-links-and-images&quot;&gt;&amp;quot;Links and Images&amp;quot;&lt;/a&gt;. Сабақты тез-тез қарап шығам ғой деп ойлағанмын, бірақ шамамен 45 минуттай отырдым. Уақыт көбіне қосымша материалдармен танысуға кетті.&lt;/p&gt;
+&lt;p&gt;Бұрын көп мән бермеген HTML-дегі &lt;code&gt;a&lt;/code&gt; тегінің &lt;code&gt;href&lt;/code&gt; атрибуты &lt;code&gt;hypertext reference&lt;/code&gt; дегеннің қысқартылған түрі екенін білдім де, файлға сілтеме жасағандағы &lt;code&gt;../&lt;/code&gt; деген жазумен &lt;code&gt;./&lt;/code&gt; дегеннің айырмашылығын жақсылап түсініп алуға тырыстым. Кейде бәрін дұрыс жасап осындай қарапайым қадамдар жұмысты тежеген кездер болған.&lt;/p&gt;
+&lt;p&gt;Кешке йога. Йога оңай дегендер онымен айналыспағандар дер едім.&lt;/p&gt;
+&lt;h3&gt;Сәрсенбі&lt;/h3&gt;
+&lt;p&gt;Роза жұмысқа қайта шыққалы менің жұмыс күндері әр таңым баланы бақшаға апарумен басталады. Содан кейін барып өзімнің үйреншікті ісіме кірісемін. Бірақ бұл күн бала үйде қалды. Алдында көтерілген ыстығы біресе түсіп, біресе көтеріліп, қанды ішті. Оған жөтел қосылды. Әйтеуір бүгін түске таман жағдай жақсарған сияқты. Түсте баламен серуендеп келіп, ұйықтаттым. Енді кодиңге уақыт бөліп қоюға да болатын сияқты.&lt;/p&gt;
+&lt;p&gt;Бүгінгі сабақ &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-commit-messages&quot;&gt;&amp;quot;Commit Messages&amp;quot;&lt;/a&gt;. Керемет сабақ. Қазір Git туралы жаңа нәрсе үйренсем қуанамын. Бұл құралдың кереметтігіне әзірге тоя алар емеспін. Өкініштісі сабақты аяқтап үлгермедім. Балам оянды. Демек енді ұйықтамайды деген сөз, ал кешке зал. Бүгінге кодиң осымен тәмәм.&lt;/p&gt;
+&lt;h3&gt;Бейсенбі&lt;/h3&gt;
+&lt;p&gt;Баламыз әлі үйде. Бүгін онымен Роза қалады, ал мен кітапханаға барып жұмыс істеп қайтатын болдым. Бала кезімнен бері кітапхана деген бір кітаптар сақталып тұратын мұражай сияқты көрінетін еді. Сөйтсем бұл жұмыс істеуге де өте ыңғайлы жер екен. The Odin Project-тің сабақ оқуға болатын орындар туралы бөліміне осындай амал туралы &lt;a href=&quot;https://github.com/TheOdinProject/curriculum/pull/26477/commits/220a61968278848b7a6f794948efbdc288f18bfb&quot;&gt;pull request&lt;/a&gt; жасағанмын. Бұл жобаның ерекшелігі сол: кез келген адам оның оқу бағдарламасыны өзгертулер &lt;em&gt;ұсына&lt;/em&gt; алады. Егер ұсынысты модераторлар орынды деп шешсе, ол баршаға ортақ оқу материалына &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-motivation-and-mindset#physical-distractions&quot;&gt;қосылады&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;:::tip[Идея]&lt;/p&gt;
+&lt;p&gt;The Odin Project, Full Stack Open сияқты подкастиңге арналған кітап жазу, курс жасау: ашық, тегін, көптілді.&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;p&gt;Бүгін кешегі сабақты аяқтап, осы курс аясындағы алғашқы жобама да жеттім: &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-recipes&quot;&gt;Project: Recipes&lt;/a&gt;. Бәрін оқып, жасап шығуға шамамен екі сағаттай уақыт жұмсадым. Әзірге &lt;a href=&quot;https://yeldar.org/TOP/foundations/odin-recipes/&quot;&gt;түрі&lt;/a&gt; онша емес болса да, берілген тапсырманы толығымен орындап шықтым. Көп уақыт алғаны сол баяғы папкалар арасындағы сілтемелерді жасау болды.&lt;/p&gt;
+&lt;p&gt;Сабақтың соңында &lt;a href=&quot;https://dev.to/theodinproject/becoming-a-top-success-story-mindset-3dp2&quot;&gt;мына&lt;/a&gt; жазбаны тағы бір оқып шығуға кеңес берген екен.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Бағдарламалауды үйрену кезінде де, бағдарламашы болған кезде де оңай болмайтынын қабылдаңыз.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Odin Project-тің бірталай мақаласын және сабақтарда берілген сілтемелерді қазақ тіліне аударса артық болмайды. Сайтымда қазақшаға аударуға тұрарлық кітаптар мен жобалар тізімін жинай &lt;a href=&quot;https://yeldar.org/translate&quot;&gt;бастадым&lt;/a&gt;. Кейін бір уақыт, жағдай болғанда кірісермін.&lt;/p&gt;
+&lt;h3&gt;Жұма&lt;/h3&gt;
+&lt;p&gt;CSS-ті аз-маз білетінмін, бірақ осыған дейін оған бір ден қойып қарамаппын. Дұрыстап зерттеп тастайтын кез келген сияқты.&lt;/p&gt;
+&lt;p&gt;Ертеңгісін бақшаға кеткен баламызды түске таман алып кетуге тура келді. Содан бүгінгі оқу уақыты сол баланы қараумен өтті деуге болады.&lt;/p&gt;
+&lt;h3&gt;Сенбі&lt;/h3&gt;
+&lt;p&gt;Біздің баланың ауырғаны созылып жатыр. Сондықтан білім алу мәселесі, жағдай түзелгенше бәсеңдейді. Түнде алты-ақ сағат ұйықтағандықтан, бүгін түстен кейін қалғи бастадым. Бұндай кезде кішкене мызғып алуға тырысамын. Ұйқының емі - ұйқы.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Intro to CSS&amp;quot; сабағының жаттығуларын жасамас бұрын біртүрлі сезім болды: жаттығулар оңай болатынын түсініп тұрсаң да (бұл бастауыш деңгей ғой), істей алмайтындайсың ба, жоқ әлде бұл жаттығу істеуге тұрмайтындай ма... әйтеуір осындай бір түсініксіз жағдай. Қалай болғанда да, жаттығуларды істеп шығуды ұйғардым. Ендігі аптада осындай мәселелерді психологыммен талқылайтын болдық.&lt;/p&gt;
+&lt;p&gt;Жаттығуларды жасағанда перфекционизмге бой алдырмай тапсырмада берінгенді &lt;em&gt;ғана&lt;/em&gt; жасау керек. Одан арғысы кейін жасалады. Бүгін үшінші жаттығуға дейін жасап шықтым, нәтиже &lt;a href=&quot;https://yeldar.org/TOP/foundations/intro-css/&quot;&gt;мына&lt;/a&gt; бетте.&lt;/p&gt;
+&lt;h3&gt;Жексенбі&lt;/h3&gt;
+&lt;p&gt;Кеше баланы дәрігерге көрсеттік. Жағдайы біз ойлағаннан да күрделі екен. Сондықтан алдағы аптада да үйде болады. Бұл дегеніңіз жұмыс пен оқуға аз уақыт бөлінеді деген сөз.&lt;/p&gt;
+&lt;p&gt;Бүгінгі мәселе - кеше бастаған CSS бойынша жаттығуларды аяқтау. Оларды тез-ақ жасап шықтым. Әлі толық меңгеріп алдым деп айта алмаймын, бірақ осы сабақ бойынша негізгі ақпарат миыма орнықты деуге болады.&lt;/p&gt;
+&lt;p&gt;Осымен codingPath-тың алғашқысы тәмам. Болашақта бұл посттардың форматы өзгеруі әбден мүмкін. Мен қаншама жыл блогиң әлемінде жүрсем де, ұзақ уақыт бойы, толыққанды жеке блог жүргізіп көрмеген едім. Бұл менің ендігі алғашқы қадамым. Ұзағынан болсын!&lt;/p&gt;
+&lt;h2&gt;Қызықты сілтемелер&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Видеоблог: &lt;a href=&quot;https://www.youtube.com/watch?v=hSTqxp-QwGs&quot;&gt;Жеке психологпен жұмыс істеу менің өмірімді қалай өзгертті?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://textcasting.org/&quot;&gt;Textcasting&lt;/a&gt; – тура подкастиң сияқты, бірақ мәтін үшін. Жасап бастаған подкастиңнің техникалық жағын іске асырған Дейв Уайнер.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Мен осы блогтың мәтінін қазір тікелей VSCode-та жазып жүрмін. Қатты ыңғайлы деп айта алмаймын, оның орнына жеке &lt;a href=&quot;https://yabwe.github.io/medium-editor/&quot;&gt;Мedium Editor&lt;/a&gt; жасап алғым келеді.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://kitap.kz/music/9/83-durys-soyleyik-3&quot;&gt;Өкінішке қарай ма, әлде өкінішке орай ма?&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Grit_(personality_trait)&quot;&gt;Grit_(personality_trait)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Медитация жасауға арналған австралиялық қолданба &lt;a href=&quot;https://www.smilingmind.com.au/&quot;&gt;Smiling Mind&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-1</guid>
+      </item>
+      <item>
+        <title>codingPath - 2</title>
+        <link>https://yeldar.org/codingPath-2</link>
+        <description>&lt;h2&gt;13-20.11.2023&lt;/h2&gt;
+&lt;p&gt;codingPath постары кейде күнделік сияқты, кейде шолақ болса айып етпеңіздер. Бұл постар топтамасын мен алдымен өзім үшін жазамын. Егер сіздерге де пайдалы болса тек қуанамын. Мен бағдарламалау арқылы өзімді зерттеймін. Жалпы адам кез келген іспен айналысқанда осылай деп ойлаймын.&lt;/p&gt;
+&lt;p&gt;Мен бағдарламалауды не үшін үйреніп жатырмын? Тек теңге үшін бе? Ол әрине бар, бірақ тек қана ол үшін емес. Жалпы бұл мен үшін бұрыннан бері бағынбай жүрген белес. Екіншіден, мен ойластырған жобаларымды өзім іске асырғым келеді.&lt;/p&gt;
+&lt;!--truncate--&gt;
+&lt;h3&gt;Дүйсенбі&lt;/h3&gt;
+&lt;p&gt;Бүгін психологыммен бағдарламалауды үйрену тақырыбында екі сағаттан аса сөйлестік. Тақырып терең, бір сессиядан кейін бәрі керемет болып кетпейтіні анық. Бұл жалпы кез келген тақырыпты жақсылап талқылау кезінде болатын жағдай. Бірақ түбі бәрі жақсы болатынын түсіндім.&lt;/p&gt;
+&lt;p&gt;Бүгін CSS бойынша &lt;a href=&quot;https://github.com/TheOdinProject/css-exercises/tree/main/foundations/06-cascade-fix&quot;&gt;6-шы тапсырманы&lt;/a&gt; түсінгенімше орындадым. Бірақ бұл тапсырманың берілгенін дұрыс түсінбегенімді сезіп, The Odin Project-тің дискордынан тапсырманың егжей-тегжейін түсіндіруін сұрадым. Шынымен мен кішкене дұрыс түсінбеппін, мен бұл тапсырманы алдыңғылары сияқты стильдерді өзгертуге бағытталған екен деп қалыппын. Сөйтсек стильдер өзгеретініне қарамастан, мәселе &lt;em&gt;каскад&lt;/em&gt; бойынша жыттығу да екен. Әзірге маған каскад туралы негізгі білім жеткілікті. Керек кезінде тереңдетіп оқып алармын.&lt;/p&gt;
+&lt;p&gt;Осы сабақ бойынша екінші тапсырма: алдында жасалған мәзірді CSS көмегімен әрлеу. Барып аз-маз ойнап көрдім, негізінен қызық нәрсе. Қазір интернетте дайын стильдер, шаблондар көп деуге болады. Мен оларды оқып, өз керегіме қолдана алсам болды емес пе? Мысалы, &lt;a href=&quot;https://ranscribe.kz/&quot;&gt;Transcribe.kz&lt;/a&gt;-тің &amp;quot;дизайнын&amp;quot; жасауға &lt;a href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;-ты қолдандым. Егер менің мақсатым шаблон жасаушы, не &lt;em&gt;тек қана&lt;/em&gt; фронтендпен айналысатын маман болу болса әңгіме бөлек. Сондықтан менің мақсатыма қазіргі деңгейім жеткілікті деп ойлаймын. Ертең &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css&quot;&gt;келесі сабаққа&lt;/a&gt; кірісемін.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PS. Барып сабақ жоспарын көріп келдім: CSS әлі біраз уақыт үйренеді екенбіз. Бұл CSS-ті түсін, қабылда, үйрен, қолдан, меңгер деген сөз.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Сейсенбі&lt;/h3&gt;
+&lt;p&gt;Баламыз жазылып боп қалды деуге болады. Енді біздің Роза екеуіміздің кезегіміз келгендей. Біз баламыз сияқты қатты ауырмадық, бірақ жұмыс істеп, сабақ оқуға әлім жетпеді. Сөйтіп апта соңына дейін еш сабақ оқи алмадым.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-2</guid>
+      </item>
+      <item>
+        <title>codingPath - 3</title>
+        <link>https://yeldar.org/codingPath-3</link>
+        <description>&lt;h2&gt;20-26.11.2023&lt;/h2&gt;
+&lt;p&gt;Бұл аптада Алматы сапарында болдық, содан сабақ оқылмады. Енді қайта қолға алып жатырмын.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-3</guid>
+      </item>
+      <item>
+        <title>Стартап бастағыңыз келсе, стартап академиясына келіңіз</title>
+        <link>https://yeldar.org/for-startupers</link>
+        <description>&lt;p&gt;Бұл постта стартаперлерге пайдалы тегін материалдарды жинаймын.&lt;/p&gt;
+&lt;p&gt;Өзіме ерекше ұнағандарын ⭐️ деп белгілеп қойдым.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;⭐️ &lt;a href=&quot;https://www.sting.co/pre-sting/startup-academy&quot;&gt;Sting Startup Academy&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1&quot;&gt;&amp;quot;How to Start a Startup&amp;quot;&lt;/a&gt; playlist by Y Combinator;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⭐️ &lt;a href=&quot;https://www.youtube.com/playlist?list=PLLfQRiRcXrlmZUNBK2TbINq6TBWw8pyxk&quot;&gt;Startup Fundraising Academy Introduction&lt;/a&gt; by MATI Startup Fundraising Academy + &lt;a href=&quot;https://academy.startup-israel.org.il/&quot;&gt;website version&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://academy.ied.eu/course/startup-academy&quot;&gt;StartUp Academy&lt;/a&gt; by the Institute of Entrepreneurship Development (iED);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://startupacademy.ae/events/&quot;&gt;StartUp Academy&lt;/a&gt;;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://startup-academy.ch/startups-2/academy/?lang=en&quot;&gt;Startup Academy&lt;/a&gt; is a nonprofit organization that connects startups in Switzerland;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⭐️ &lt;a href=&quot;https://academy.vc4a.com/&quot;&gt;Startup Academy&lt;/a&gt; by VC4A;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.startupschool.org/&quot;&gt;Startup School&lt;/a&gt; by Y Combinator;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.startupincubator.ee/en/startupacademy/&quot;&gt;Startup Academy&lt;/a&gt; by Tehnopol Startup Incubator and financed by RTK;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.virtualstartup.academy/&quot;&gt;Virtual Startup Academy&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Тағы да пайдалы нәрселер тапсам қосып қоямын ;-)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/for-startupers</guid>
+      </item>
+      <item>
+        <title>Подкастиңге қатысты кітаптарым енді кітапханада</title>
+        <link>https://yeldar.org/books-in-library</link>
+        <description>&lt;p&gt;Алдында &lt;a href=&quot;https://yeldar.org/blog/2023/11/10/pod-new-steps&quot;&gt;жазғанымдай&lt;/a&gt; 2019 жылдан бері жинап келген подкастиңге қатысты кітаптарымды ҰАК-ға өткіздім. Олар барынша көп адамға қолжетімді болса деймін. Бұл қадамыммен мен тек кітапхананы қолдап қана қоймай, сондай-ақ, подкастиңді зерттеушілерге, үйренушілерге пайдасы тисе деп отырмын. Қазіргі таңда тапсырған кітаптар тізімі мынандай:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;«NPR&#39;s Podcast Start Up Giude», Glen Weldon;&lt;/li&gt;
+&lt;li&gt;«Пошумим», Эрик Низюм;&lt;/li&gt;
+&lt;li&gt;«В голос», «Ковен Дур»;&lt;/li&gt;
+&lt;li&gt;«Reality Radio» 2nd edition;&lt;/li&gt;
+&lt;li&gt;«Why 75% of podcasts fail», Daniel Larson;&lt;/li&gt;
+&lt;li&gt;«Девять способов зарабатывать голосом», Кларк Элейн;&lt;/li&gt;
+&lt;li&gt;«Путешествие писателя», Кристофер Воглер.&lt;/li&gt;
+&lt;li&gt;«The Podcast Planner», Andy Saucedo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Сонымен қатар бұл қадам басқа бір жобаға бастау болып отыр: жылдар бойы жыйған тәжірибеме сүйене отырып, подкастиң бойынша ашық кітап жазып бастадым, ол кітапты сіз де менімен бірге жазсаңыз болады: https://openpodcasting.com&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/books-in-library</guid>
+      </item>
+      <item>
+        <title>codingPath - 4</title>
+        <link>https://yeldar.org/codingPath-4</link>
+        <description>&lt;p&gt;2023-тің соңында Алматыдан келдік. Содан кейін неге екені белгісіз оқу, фитнес туралы ойлай алмадым да. Олар туралы тіпті ұмытып кетіппін. Отбасымызда бәріміз ауырып, шамамен он күндей мүлде ештеңе істей алмадық. Қазір нақты түсінгенім: қалай болғанда да оқуды жалғастыру керек.&lt;/p&gt;
+&lt;h2&gt;freeCodeCamp × The Odin Project&lt;/h2&gt;
+&lt;p&gt;freeCodeCamp беттеріндегі The Odin Project &lt;a href=&quot;https://www.freecodecamp.org/learn/the-odin-project/&quot;&gt;сабақтарың&lt;/a&gt; өтіп болдым. TOP-тың өзінде осы Flexbox-қа келіп тоқтағанмын. fCC жақсы болды. Ол жерде сабақтар түсініктірек сияқты.&lt;/p&gt;
+&lt;p&gt;Қуаныштарымның бірі freeCodeCamp-ке &lt;a href=&quot;https://github.com/freeCodeCamp/freeCodeCamp/pull/53078&quot;&gt;екі&lt;/a&gt; &lt;a href=&quot;https://github.com/freeCodeCamp/freeCodeCamp/pull/53100&quot;&gt;рет&lt;/a&gt; pull request жасадым. Екеуі де қабылданды. Енді өзімді freeCodeCamp контрибюторымын деп айта аламын :-)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt; деген ойынды ойнап тастадым. Қызық екен.&lt;/p&gt;
+&lt;h2&gt;Кодіңді үйрену жолындағы ойлар&lt;/h2&gt;
+&lt;p&gt;Кодиңді үйренгенде ең бастысы оқуды ұзаққа тастамау керек екен. Ары кетсе 1-2 күн үзіліс алуға болады. Одан көп болса оқуды қайтадан басынан бастау керек болады. Содан кейін кейбір нәрселерді түсіну қиын болса да қайтпау керек екен. Сол нәрсені неше түрлі жолмен түсінуге тырысу керек екен. Қайтпасаң түбі түсінесің. Ізденісің қаншалықты ұзақ болса, әлгі нәрсені түсінуіңіз де соншалықты терең болады.&lt;/p&gt;
+&lt;p&gt;Алдыңғы тақырыптарды жеткілікті деңгейде түсінбей тұрып алға басудың дым қажеті жоқ. Тақырып ары қарай күрделене түседі, демек түсінбеу деңгейіде өседі деген сөз. Сондықтан қаншалықты тез оқу керек болса да асықпай оқыған жөн. Сонда нәтиже болады. Әйтпесе бәрібір басында түсінбеген тақырыпқа оралуға тура келеді. Өйткені тура сол түсінбеген тақырып айналып келіп алдыңнан шыға береді, шыға береді.&lt;/p&gt;
+&lt;p&gt;Мысалы, мен &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox&quot;&gt;Introduction to Flexbox&lt;/a&gt; деген сабақты және сол сабақтың &lt;a href=&quot;https://internetingishard.netlify.app/html-and-css/flexbox/index.html&quot;&gt;Flexbox&lt;/a&gt; деген тапсырмасын дұрыс түсіне алмадым. Өзімді қинап оқып шықсамды болмады. Себеп: оның алдындағы &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-the-box-model&quot;&gt;The Box Model&lt;/a&gt; деген сабақ дұрыс оқылмаған. Салдары: Flexbox-ты тереңірек түсіндіретін &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-growing-and-shrinking&quot;&gt;Growing and Shrinking&lt;/a&gt; деген сабақтың кіріспесін де түсіне алмай отырғандықтан, алдында түсінбеген сабақтарды қайта өту керек.&lt;/p&gt;
+&lt;p&gt;Сөйтсем мен өзім ойлағаннан да кейінірек қайтуым керек екен. Қайтадан артқа барып &lt;a href=&quot;https://internetingishard.netlify.app/html-and-css/css-box-model/&quot;&gt;CSS Box Model&lt;/a&gt;-ден бастадым. Оқып келе жатып автордың мынандай сөзі менің өстіп артқа оралғанымның неге дұрыс екендігін түсіндіретін абзацын &lt;a href=&quot;https://internetingishard.netlify.app/html-and-css/floats/&quot;&gt;кездестірдім&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;the limited nature of floats makes them a gentler introduction to CSS layouts than Flexbox. Instead of being overwhelmed with all the possibilities of Flexbox, we’ll get a chance to focus more on the process of building up a sophisticated web page layout.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Мен уеб-бағдарламалау тақырыбын ары-бері ақтарып жүргеніме бір жылдан асқанда алдыңғы жылы оқыған деңгейімді ойласам дым оқымаған сияқтымын. Мен шынымен зер салып оқыдым, бірақ тақырыптарды терең түсінбеген сияқтымын. Кім біледі мүмкін қазіргі оқу деңгейімді де бір жылдан кейін құнсыздандыратын шығармын. Мысалы, &amp;quot;ағылшын тілін түсінсем де оның грамматикасын сейкес деңгейде білмегенмін&amp;quot; деп. Әрине сол кезде сол деңгейде оқымасам, қазір мына деңгейде түсінбес едім деп ақтап қояйын өзімді. Бұл да рас емес пе?&lt;/p&gt;
+&lt;h2&gt;Пайдалы шаралар&lt;/h2&gt;
+&lt;p&gt;Қаңтардың бесінде &lt;a href=&quot;https://badwebsite.club/webdev-bootcamp-jan-2024.html&quot;&gt;Free Web Development Bootcamp&lt;/a&gt; басталды. Контенті өте оңай екеніне қарамастан осы буткемпті аяқтауға бел будым. Өйткені маған бірге оқитын коммюнити керек. Сосын жүргізушілер қатысушыларды керемет қолдайды. &lt;a href=&quot;https://www.youtube.com/@badwebsiteclub&quot;&gt;Ютубтарынан&lt;/a&gt; стримдерін қарап көрсеңіз мен не туралы жазып отырғанымды түсінесіз. Қазіргі интернеттегі бірін бірі жұлып жеп тұрған қауымдастықта адамды осы кісілер сияқты қабылдап, қолдай алу ерекше екен.&lt;/p&gt;
+&lt;p&gt;Сосын бұл буткемп біте сала &lt;a href=&quot;https://badwebsite.club/js-bootcamp-feb-2024.html&quot;&gt;екіншісі&lt;/a&gt; басталады. Ол JavaScript туралы болады да, fCC-дегі &lt;a href=&quot;https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/&quot;&gt;JavaScript Algorithms and Data Structures (Beta)&lt;/a&gt; деген бөлімді толығымен қамтиды. Ақпанның басында басталып Сәуірге дейін болады.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-4</guid>
+      </item>
+      <item>
+        <title>Биыл кітап тақырыбы трендте</title>
+        <link>https://yeldar.org/books-in-trend-again</link>
+        <description>&lt;h2&gt;Кітап туралы подкаст&lt;/h2&gt;
+&lt;p&gt;Өзіме қатты ұнайтын баспа үйімен кітап туралы подкаст бастайын деп жатырмыз. Қазір дайындық қызу жүріп жатыр. Алдында мен іздеген транскрипт жасайтын адам, фотосессия, дизайнер дегеннің бәрі сол жобаға қатысты еді. Бұйырса бұл мен жасаған алғашқы video-first подкаст болады.&lt;/p&gt;
+&lt;h2&gt;Жаңа кітап&lt;/h2&gt;
+&lt;p&gt;Бақытгүл Салыхова мен Әйнел Әмірханның кітабының Астанада презентациясы болды. Бардық, қатыстық, подкастиңді талқыладық (видеосы жақында жарияланатын шығар). Кітапты енді оқи бастадым. Сіздер алдыңыздар ма? Оқыдыңыздар ма? Каспиде сатылады, атауы &amp;quot;атың шықпаса, ПОДКАСТ ЖАСА&amp;quot;: https://kaspi.kz/shop/p/ba-ytg-l-salyhova-inel-m-rhan-aty-shy-pasa-podkast-zhasa-115299433/?c=750000000&amp;amp;sr=1&amp;amp;qid=7b991a3c0b9dc556cb90c149a3abe5b1&amp;amp;ref=shared_link (Мына сілтеме тым ұзын сияқты иә?)&lt;/p&gt;
+&lt;h2&gt;Жап-жаңа кітап&lt;/h2&gt;
+&lt;p&gt;2023-тің аяғында бұрыннан бері қашқақтап жүрген «Подкастер деген кім?» деген сұрақтың жауабын таптым. Әлі толық емес, бірақ негізгі концепциясы нық. Сонымен подкастиңге қатысты 4 сұрақтың (подкастиң, подкаст, подкастер, rss) жауабын тапқан соң, алдынан бері жазғым келіп жүрген кітабымды түрте бастадым. Атауы «Подкастиң: тәуелсіз технология, шексіз контент» болады. Бұл кітап менің болашақта жасайтын ғылыми жұмысымның негізі болады деп отырмын: https://openpodcasting.com&lt;/p&gt;
+&lt;p&gt;Посттың қысқа сілтемесі: https://k.yeldar.org/B4nPT&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/books-in-trend-again</guid>
+      </item>
+      <item>
+        <title>codingPath - 5</title>
+        <link>https://yeldar.org/codingPath-5</link>
+        <description>&lt;h2&gt;Flexbox&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;flex&lt;/code&gt; алғашқыда түсінуге де, меңгеруге де өте қиын дүние. Бірақ тастамасаң оны үйреніп алуға болатын сияқты. Флекстің қасиеттері басқаларға қарағанда көп. Барлық дүние контейнерлерден және сол контейнердің элементтерінен құралады (элементтер өз бетіне ішіндегі элементтерге контейнер бола алады). Қазір түсінгенім ең бастысы бұл қасиеттер &lt;em&gt;контейнерге&lt;/em&gt; жазыла ма, жоқ &lt;em&gt;элементке&lt;/em&gt; жазылама ма осыны білу екен. Өйткен бұл қасиеттің бәрі тек қана контейнердің ішіндегі элементтерге ғана &lt;em&gt;әсер&lt;/em&gt; етеді.&lt;/p&gt;
+&lt;p&gt;Мысалы, &lt;code&gt;flex&lt;/code&gt; контейнердің денесіне жазылатын (бірақ сол контейнердің элементтеріне әсер ететін) &lt;code&gt;align-items&lt;/code&gt;, &lt;code&gt;justify-content&lt;/code&gt; деген қасиеттер бар. Осыларды &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container&quot;&gt;ажыратып алу&lt;/a&gt; керек. &lt;code&gt;flex-direction&lt;/code&gt; ауысқанда әлгі қасиеттер де өзгеретінін ескермей оларды шатастыратын адамдар да көп екен.&lt;/p&gt;
+&lt;p&gt;The Odin Project-тің HTML және CSS (Flexbox) бөлімінің жобасын жасайтін жерін жеттім. Бұл саладағы білгішбектер &amp;quot;бағдарламалауды меңгеру тек қана жеке жобаларды жасау арқылы іске асады&amp;quot; дейді. Мен тезірек JS деген бөлімге жетіп, Foundation-ды аяқтағым келіп отыр. Неге бұлай асығып жатқаным өзіме де құпия болып тұр. Сөйтіп өзімді сабырға шақырып, TON &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-landing-page&quot;&gt;ұсынған&lt;/a&gt; жобаны іске асыруға үгіттеп отырмын. Фаундейшннан кейін JavaScript пен Ruby арасында &lt;a href=&quot;https://www.theodinproject.com/lessons/foundations-choose-your-path-forward&quot;&gt;таңдау&lt;/a&gt; жасау керек болады. Егер The Odin Project-тің &lt;a href=&quot;https://github.com/TheOdinProject/theodinproject&quot;&gt;негізі&lt;/a&gt; Ruby тілі екенін ескерсек таңдау қызық болайын деп тұр. Тіпті бұл туралы бөлек пост жазуға болатын сияқты.&lt;/p&gt;
+&lt;h2&gt;Eleventy&lt;/h2&gt;
+&lt;p&gt;Мына сайтым мен блогым &lt;a href=&quot;https://docusaurus.io/&quot;&gt;Docusaurus&lt;/a&gt; деген SSG-ге негізделген. Бұл коды ашық, Meta-ға тиесілі, өте қуатты статикалық сайт жасағыштардың бірі. Негізінен Docusaurus жеке сайт, блог жасауға емес құжаттама құруға арналған. Сондықтан мен басқа бір альтернатива іздедім. Критериім: оның бэкендінде NodeJS (JavaScript) болуы керек. Өйткені әзірге білетін тілім сол ғана. Таптым: &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;Eleventy&lt;/a&gt;. Осы күнге дейін мен қаншама CMS көрсемде Eleventy беріп отырған еркіндікті бірінші рет кездестіріп отырмын.&lt;/p&gt;
+&lt;p&gt;Қазір Eleventy мен үшін Android немесе басқа телефоннан iPhone-ға көшкенмен тең (сияқты болып көрініп тұр). Осыдан шамамен 10 жыл бұрын айфонға ауысқаннан кейін мен басқа телефондарға мүлде қарамайтын болдым. Оған дейін сол кездегі телефондардың дерлік бәрін білетінмін. Сол кезде істеген Евросетьтің күнделікті болмаса да аптасына бірнеше рет барып тұратын тұрақты &lt;em&gt;оқырманы&lt;/em&gt; болғанмын. Содан кейін iPhone алдым да оның ыңғайлығына көңілім толғаны сонша мен жалпы телефондар туралы ізденуді қойдым. Сол сияқты енді аман-есен Eleventy-ге ауысып алсам басқа SSG-лерге қарауды қоямын деп сенемін.&lt;/p&gt;
+&lt;p&gt;Егер осы жолға бірге түсемін десеңіз &lt;a href=&quot;https://www.youtube.com/watch?v=uzM5lETc6Sg&amp;amp;list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW&amp;amp;pp=iAQB&quot;&gt;мына&lt;/a&gt; видео-сабақтардан бастауға болады.&lt;/p&gt;
+&lt;h2&gt;LeetCode&lt;/h2&gt;
+&lt;p&gt;Оқуым басталғалы бірнеше рет кіріп беттемеген сайтыма қайта орадым. Оған себепші болған &lt;a href=&quot;https://leetcode.com/studyplan/30-days-of-javascript/&quot;&gt;мына&lt;/a&gt; челлендж. Бірінші сабағын қарап шығып пікірлер бөлімін оқысам LeetCode тапсырмаларының Editorial деген қойындысы болады екен. Ол жерде осы тапсырманы шешуге көмектесетін ақпарат болады екен (шешімі емес).&lt;/p&gt;
+&lt;p&gt;Тағы бір себеп: бағдарламалауды меңгергенде дым қақпайтын тақырыпты тастамай, оны қайта-қайта шұқи берсең күндердің бір күнінде сен ол тақырыпты шемішкедей шағып тастайды екенсің. Соңы жұмысқа тұрар алдында, (егер біреу өзі офер ұсынбаса) сұхбатқа дайындалғанда осы сайттың көмегіне жүгінерім анық емес пе. Енді ол кезді күтпей-ақ қазір айналыса берсе не болады?&lt;/p&gt;
+&lt;h2&gt;Қосымша қызықты сілтемелер&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;https://flexbox.malven.co &amp;amp; https://grid.malven.co;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://podcasts.apple.com/podcast/id1671019533&quot;&gt;Self-taught Devs Podcast&lt;/a&gt; – мына подкастың жүргізушілері менің осындай посттар жазып жүргенімнің дұрыс екенін растап жатыр.&lt;/li&gt;
+&lt;li&gt;Sr Dev&#39;s Review of The Odin Project: &lt;a href=&quot;https://www.youtube.com/watch?v=gjPSVNVelro&quot;&gt;Part 1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.youtube.com/watch?v=jToxebcZNvA&quot;&gt;Part 2&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yep.so/p/jobsimulatordev&quot;&gt;Dev Job Simulator&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://selectstarsql.com/&quot;&gt;Select Star SQL&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;DSA &lt;a href=&quot;https://www.geeksforgeeks.org/data-structures/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.geeksforgeeks.org/fundamentals-of-algorithms/&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://algs4.cs.princeton.edu/home/&quot;&gt;3 (book)&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.samanthaming.com/flexbox30/&quot;&gt;Learn Flexbox with 30 Code Tidbits&lt;/a&gt; - бір оқып шықтым. Flexbox қасиеттерін оңай түсіндіретін, тез оқылатын, жеңіл дүние екен;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scrimba.com/learn/flexbox/&quot;&gt;Scrimba Flexbox Course&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PS. Иә, мен iPhone алдым.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-5</guid>
+      </item>
+      <item>
+        <title>codingPath - 6</title>
+        <link>https://yeldar.org/codingPath-6</link>
+        <description>&lt;p&gt;The Odin Project-те жоба ретінде лендиң пейдж жасау керек. Мен оны сол TON-ның өзі туралы қазақ тіліндегі сайт жасайын дедім. Сайт құрылымы қиын емес сияқты. Жобаны жасап бастадым. Жұмыс барысы өзіме ұнап жатыр.&lt;/p&gt;
+&lt;p&gt;Барып HTML семантикасы туралы &lt;a href=&quot;https://web.dev/learn/html/semantic-html&quot;&gt;екі&lt;/a&gt; &lt;a href=&quot;https://web.dev/learn/html/headings-and-sections&quot;&gt;мақала&lt;/a&gt; оқып шықтым. Өте пайдалы болды. Болашақта жеке сайтымды өзім жасағанда осы қағидаларды қолданамын.&lt;/p&gt;
+&lt;!--truncate--&gt;
+&lt;h2&gt;Ұйқы және кодиң&lt;/h2&gt;
+&lt;p&gt;Өткен үш күн бағдарламалау туралы бір кітапты оқып жүрмін. Өте ұнап жатыр. Кодиңге деген көзқарас түрленіп, тезірек істерімді бітіріп код жазғым келіп бастады. Бұл бір қызық эмоция екен. Бірақ! Кеше таңға дейін подкастиңге қатысты шұғыл екі жұмыс істедім. Сәйкесінше бүгін ұйқым қанбаған. Соның салдарынан кодиңге деген тәбетім қайтып қалғанын бірден байқадым. Ұйқыдан басқа ештеңе өзгерген жоқ. Ұйқының маңызы жайында қанша естісем де онша мән бермейді екенмін. Шынымен сапалы ұйқа - сапалы күн кепілі екен.&lt;/p&gt;
+&lt;h2&gt;Тым күрделі хәм түсініксіз құжаттама&lt;/h2&gt;
+&lt;p&gt;Әр бағдарламалау тілінің ресми құжаттамасы болады. Тіл туралы білімнің бәрі сол жерде. Тіпті бұрынғы бір мұғаліміммен &amp;quot;кез келген тіл бойынша ең мықты онлайн курс - сол тілдің құжаттамасы&amp;quot; деген шешімге келгенімізде есімде. Бұл шынымен солай десекте осы кезге дейін мен көрген құжаттамалардың (NodeJS, Ruby) бір үлкен проблемасы бар: оларды бағдарламалауды енді үйреніп бастаған адамдар түсінуі өте қиын. Кей жерлерін түсінсе де толық түсініп, қолдана алмайды. Осы тұрғыда &amp;quot;демек бағдарламалау тілі туралы құжаттаманы оқып үйрететілу керек&amp;quot; деген ой келді. Бұл ағылшын тілінде де &lt;a href=&quot;https://zverok.space/talks/#the-struggle-for-better-documentation-for-ruby-itself&quot;&gt;көте&lt;/a&gt;&lt;a href=&quot;https://stackoverflow.com/questions/50688926/whats-the-most-official-documentation-of-or-way-to-learn-rubys-syntax&quot;&gt;ілген&lt;/a&gt;, бірақ толық шешілмеген проблема екен. Жақсы &lt;a href=&quot;https://rubyreferences.github.io/&quot;&gt;бастамалар&lt;/a&gt; да бар сияқты.&lt;/p&gt;
+&lt;p&gt;Қазір Ruby-дің 3.3.0 деген нұсқасы шыққан. Осы нұсқасына сәйкес құжаттаманы табудың өзі кәдімгідей проблема болды: &lt;a href=&quot;https://docs.ruby-lang.org/en/3.3/index.html&quot;&gt;таптым&lt;/a&gt;. Енді оны оқып үйрену керек.&lt;/p&gt;
+&lt;h2&gt;Идеяларым&lt;/h2&gt;
+&lt;p&gt;Бұрын идеяларымды оңды солды тарата беретінмін. Бірақ &amp;quot;ұрланған&amp;quot; идеялар туралы естіген сайын менің бір параноям дамып келеді. Бұл жайдан жай емес. Бұрын да менің идеяларым &amp;quot;ұрларған&amp;quot;.&lt;/p&gt;
+&lt;!-- Баяғыда мен Қазақ радиосында 3 ай істегенмін. Сондағы мақсатым: тікелей эфирде IT-тақырыбындағы бағдарлама жасау болған. Кейін тура мен ойластырылған нәрсе сол жерде шыққанын көрдім/естідім. Өкінішке орай ол ұзақ өмір сүрмеді. Осындай нәрселер бірнеше рет болған.  --&gt;
+&lt;!-- Алдыңғы аптада бір бағдарламашы жігітпен таныстым. Transcribe.kz туралы айтып бердім. Бірге жасайық дедім. Енді телефонын алмайды. Хабар жоқ. Ех деп қойдым. Бопты. --&gt;
+&lt;!-- коменттерді әдейі қалдырдым ;-) --&gt;
+&lt;p&gt;Енді индустрияда жүрген мамандар &amp;quot;идеяларыңды ешкімге айтпаңдар. Оларды жазып қойыңдар. Ақырындап өздерің іске асырыңдар&amp;quot; деп жатыр. Сондықтан енді бір де бір идеямды тегін бөліспеймін деп шештім. Құдайға шүкір идея жетеді.&lt;/p&gt;
+&lt;h2&gt;Жеке блог&lt;/h2&gt;
+&lt;p&gt;Бұл мәселеде сайттың негізі қай құралда болады. Соны таңдау оңай болмады: Eleventy vs. Jekyll. Нәтижесінде таңдауым 11ty-ге түсті. Ол тым шапшаң; функционалы ТОП; ермексаз сияқты не істегің келсе соны іске асыра алады; посттарды жыл, ай бойынша қалталарға жинай алады; т.с.с. қасиеттері жетерлік. Weblog.kz соған ауысады.&lt;/p&gt;
+&lt;p&gt;Оның үстіне Jekyll-ді бастаған Taillandier деген адам былай &lt;a href=&quot;https://www.theregister.com/2021/09/14/future_of_jekyll_project_engine/&quot;&gt;депті&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If current Jekyll suits your needs, that&#39;s great, if [not] my advice would be to bet on Eleventy who is one of the SSG that provides the easiest path to migrate from Jekyll.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Мен ағылшын тілінде жазып бастағым келеді. Сол туралы ой: екі тілдегі контентті бір доменді жасайын ба, жоқ әлде екі тілге екі бөлек блог жасаған дұрыс па? Қазақ тілдісі көбіне жеке болады да, ал ағылшын тіліндегісі бағдарламалау туралы болады. Әзірге нақты шешім қабылдамадым.&lt;/p&gt;
+&lt;h2&gt;Қызықты сілтемелер&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://htmlboilerplates.com/&quot;&gt;HTML Boilerplates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://exercism.org/&quot;&gt;Exercism&lt;/a&gt; – We’re building a place where anyone can learn and master programming for free, without ever feeling lost or stupid - бұйырса болашақта мана жобаны да өтуге болады екен. Әдемі.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://learnrubythehardway.org/book/&quot;&gt;Learn Ruby the Hard Way&lt;/a&gt; - Ruby туралы ағылшын тіліндегі кітап.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cssreference.io/&quot;&gt;A free visual guide to CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PS. Мына сілтемелерді жинап, жариялайтын сілтеме-блог керек сияқты ма? Eleventy-де осы оңай жасауға болады ;-D&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-6</guid>
+      </item>
+      <item>
+        <title>Сәлем, Әлем – v3</title>
+        <link>https://yeldar.org/salem-alem</link>
+        <description>&lt;p&gt;Бұл доменді (weblog.kz) сатып алғаныма бір жылдан асты. Осындай блог ашқым келген. Бірақ қалай бұрсам да ыңғайы келмеді. Бірнеше проблемалар болды: .kz домендеріңіз хостиңі Қазақстан аумағында болуы керек деген тәртіп бар. Әрине мемлекет өзі төлеп отырғандықтан доменге қатысты қандай талап қойса да өз еркі. Бірақ егер мемлекет халықтың жалдамалы менеджерлері десек, ал олар жұмсап отырған қаражат та халықтікі десек… демек доменді қолдану халыққа ыңғайлы, пайдалы болуы керек емес пе?&lt;/p&gt;
+&lt;p&gt;Әлемдік деңгейде қызмет көрсететін, қай жағынан алсақта алдыңғы қатарда тұрған; көшіруші емес, инноватор компаниялардық қызметі тұрғанда мен қазақстандық хостерлермен шектелгім келмейді. Баға мәселесі - бөлек әңгіме.&lt;/p&gt;
+&lt;p&gt;Сөйтіп, құда да тыныш, құдағи да риза болатын бір шешім таптым. Қысқа-нұсқа схемасы мынандай: Eleventy → GitHub → Plesk. Постты жазып болып Гитхабтағы &lt;a href=&quot;https://github.com/yeldarx/weblog-qaz/&quot;&gt;weblog-qaz&lt;/a&gt; деген репозиторийге &lt;code&gt;push&lt;/code&gt; жасаймын. GitHub Actions сайттың статикалық нұсқасын репозиторийдің &lt;a href=&quot;https://github.com/yeldarx/weblog-qaz/tree/gh-pages&quot;&gt;gh-pages&lt;/a&gt; деген бұтағына салады да, Plesk-ке Webhook арқылы өзгерістер туралы &lt;em&gt;хабарлама&lt;/em&gt; жібереді. Plesk &lt;code&gt;gh-pages&lt;/code&gt; бұтағындағы барлық файлдарды &lt;code&gt;httpdocs&lt;/code&gt; қалтасына салып қояды. Мына мәтін сізге осылай жетті.&lt;/p&gt;
+&lt;p&gt;Yeldar.Org-қа жарияланып қойған қазақ тіліндегі постарды осы жерге көшіріп, ол жерге енді ағылшын тілді посттар жариялайын деп отырмын. Ол постардың айырмашылығын подкастиңдегі проблемаға ұқсатамын. Қазақ тілді IT-сала мен ағылшын тілді (aka әлемдік) IT-саланың арасы - жер мен көк. Сондықтан жазатын посттар да әзірге бөлек болады. Қазақ тілінде негізді түсіндіретін, үйрететін посттар жариялаймын. Кейін барып постар күрделенеді. Біз саламызда әлемдік деңгейде шешілмеген проблемаларды көтереміз. Бұған алты ай, бір жыл, не одан да көп уақыт керек болуы мүмкін. Нақты мерзімді айта алмаймын. Көреміз. Ең бастысы бастаған істі тастамау керек.&lt;/p&gt;
+&lt;p&gt;Тәжірибе көрсетіп тұрғандай постардың сілтемелірі өзгеруі әбден мүмкін екен. Сондықтан мен әр постымы тұрақты қысқа сілтеме қосамын: https://k.yeldar.org/c1Eo6 - бұл осы посттың сілтемесі. Болашақта бұл посттың негізгі сілтемесі өзгерсе де, осы сітеме арқылы тауып аласыз.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/salem-alem</guid>
+      </item>
+      <item>
+        <title>Бағдарламалау тілінің құжаттамасын оқу</title>
+        <link>https://yeldar.org/doc-reading-chatgpt</link>
+        <description>&lt;p&gt;Ең алдымен оқығым келген нәрсеге қатысты құжаттаманың ең соңғы нұсқасын табамын және содан кейін ғана оқып бастаймын. Менің ағылшын деңгейім жетерліктей жақсы болғандықтан мен көп нәрсені бірден түсінемін. Ал егер түсінбей жатсам, білмей жатсам, барып ChatGPT-ден сұраймын. &amp;quot;Бұл қалай? Бұл не? Мынаны қалай түсінуге болады?&amp;quot; деген сияқты сұрақтарды, ағылшын немесе орыс тілінде қоямын (өйткені ол әлі қазақ тілінде жақсы сөйлей алмайды). Тақырыпты толығымен түсінбейінше сұрақтарымды қоя беремін. Осындай бірнеше сұрақтан кейін ChatGPT одан не қажет екенін &amp;quot;түсінеді&amp;quot; де ешбір артық сұрақсыз толық жауап бере бастайды.&lt;/p&gt;
+&lt;p&gt;Содан кейін мысал келтіруін сұраймын. Мен сұрап жатқан нәрсеге тікелей қатысы жоқ нәрсені түсінбесем, сол жерлерді бөлек түсіндіріп өтуін сұраймын. Содан кейін мен міндетті сұрайтын тағы бір сұрақ &amp;quot;Бұны қай жерде, қалай қолдануға болады?&amp;quot; деген сұрақ. Бұл сұрақтың жауабы менің миымның &amp;quot;Мына оқып жатқан нәрсе маған не үшін керек?&amp;quot; деген сұрағының жауабы.&lt;/p&gt;
+&lt;p&gt;Жалпы, менің қазіргі түсінігім бойынша, құжаттаманы оқу деген бұл оның ішіндегі нәрселердің бәрін толық жаттап алу деген сөз емес. Бастапқыда құжаттаманы оқу - ол оның іщіндегі дүниені жалпы білу, былай жасауға болатынын, ендігі бір кездескен кезде абдырап қалмай, жалпы түсініктің болуы.&lt;/p&gt;
+&lt;p&gt;Осылайша қарапайым қағидаларды ұстанып кез келген бағдарламалау тілі бойынша құжаттаманы оқып, бағдарламалауды үйренуге болатын сияқты.&lt;/p&gt;
+&lt;p&gt;PS. Бұрын &amp;quot;егер гуглдан табуға болатын нәрсе болса, адамнан сұрамаңыз&amp;quot; деген сөз болған. Енді сол &amp;quot;егер ChatGPT-ден білуге болатын нәрсе болса, онда оны адамнан сұрамаңыз&amp;quot; деген қағидаға түрленген сияқты.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/doc-reading-chatgpt</guid>
+      </item>
+      <item>
+        <title>codingPath - 7</title>
+        <link>https://yeldar.org/codingPath-7</link>
+        <description>&lt;p&gt;Бұл &lt;code&gt;codingPath&lt;/code&gt; сериясындағы жетінші пост болса да, түпнұсқасы осы блогқа жарияланып отырған бірінші пост. Енді қазақ тіліндегі блогым осында болады. Бұл блогтың негізі &lt;a href=&quot;https://github.com/11ty/eleventy-base-blog/&quot;&gt;Eleventy&lt;/a&gt;. Енді yeldar.org-тағы қазақша мәтіндерімді осында көшіремін, ал ол ағылшынша болады.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Кез келген істі үйренгенде (мысалы, бағдарламалауды үйренгенде) біз бәрін бірден іліп кете алмаймыз. Бұл obviously ой сияқты, бірақ бұл концепцияны түсіну, қабылдау жаңаны үйренгендегі фрустрацияны азайтады. Жалпы жаңаны үйренгенде бастапқыда дым түсінбеу қалыпты нәрсе. Бәрін бірден біліп, аспаннан салбырап әлі ешкім түскен жоқ. Бәрі нөлден бастайды, жетістікке жеткендер - сол жолды тастамағандар.&lt;/p&gt;
+&lt;p&gt;Тіпті былай айтуға да болады: сіз басында ештеңе түсінбеуіңіз де керек. Бастапқыда дым түсінбеу болмаса -  сіз жаңа ештеңе үйреніп жатқан жоқсыз. Сондықтан жаңа нәрсені бірден түсінбеу - бұл қайғыратын емес, қуантарлық жайт. Демек сіз әзірге білмейтін, жаңа нәрсені үйреніп жатырсыз деген сөз. Түсініп, меңгеріп алудың басты талабы - оқу жолын тастамау. Иә, біреу тез үйренеді, ал біреу оған қарағанда баяу. Бұл істе ең бастысы жылдамдық емес, тұрақтылық. Бір күнді бес сағат оқығанша, бес күн бойы бір сағаттан оқығын тиімдірек болады.&lt;/p&gt;
+&lt;p&gt;Басында тұрақтылық деген оңай. Кейін барып сіз өзіңіздің саяхатыңызда үстіртке жетесіз. Одан екінің бірі аман-есен, оқыған нәрсесін тастамай өте алмайды. &amp;quot;Үстірт&amp;quot; кезеңінің ең басты сипаты мынандай: қанша оқысаңыз да прогресс жоқ сияқты болып көрінеді. Бірақ бұл жалған. Негізінде прогресс бар, бірақ ол бастапқыдағыдай көлемді емес, өте ұсақ. Қанша ұсақ болса да - прогресс бар. Ең бастысы осы.&lt;/p&gt;
+&lt;p&gt;Бұл ойымның дәлелі: мен қазір осыдан бір жыл бұрын түсінбек түгілі, ойламаған нәрселермен жұмыс істей аламын. Егер ең алғаш рет кездескенде түсінбей, содан ары оқуды жалғастырмасам менің білімім сол деңгейде қала берер еді.&lt;/p&gt;
+&lt;p&gt;Алдында мынандай жағдай болды. Қазір оқып жүрген кітапта алдымнан екі жаттығу шықты. Біріншісін оңай жасап тастадым, ал екіншісін жасау үшін ойланып, қосымша іздену керек еді. Оның алдында 2 сағаттай сабақ оқып отырған мен ол жаттығуды &amp;quot;сосын&amp;quot; жасай салғым келді. &amp;quot;Мен ол жаттығуды шамамен қалай жасау керектігін, оның шамамен жауабы қандай екенін жалпы білемін. Демек жасамаса да болатын шығар?&amp;quot; деп ойладым. Ойым кішкене анандай болса да, оны ақтап әлекпін. &amp;quot;Бұл оңай нәрсені істеп уақыт кетінгенше, одан да ары қарай кітапты оқи берейін де...&amp;quot; деген ойлар бойымды ала бастады.&lt;/p&gt;
+&lt;p&gt;Кенет үйге Роза келді де, менің жаттығуды жасаудан қашу процесімді үзіп жіберді. Арады екі сағаттай уақыт өтті. Бұл аралықта кодиң туралы мүлде ойлаған жоқпын. Роза екеуіміз шай-тамақ іштік, әңгіме соқтық (бұл күндіз еді, бала бақшада болған). Сөйтіп бағана үзіліп қалған процесіме кешке таман қайта оралдым. Осы уақыт ішінде бағана қашқақтаған жаттығуға тәбетім ашылғанын байқадым. Оны жақсылап жасағым келіп, іске асыға кірісіп кеттім де, жаттығуды жасап жасап тастадым. Осындай &amp;quot;шаршау&amp;quot; кезеңдерінде үзіліс алу керек екен. Бастаған істі тастамау деген күнде 8 сағат қадалып отыру деген сөз емес.&lt;/p&gt;
+&lt;!-- Үзілістің де неше түрі болады, ол туралы кейін жазармын. --&gt;
+&lt;!-- Үйренгенді қайталаудың ең тиімді жолы еске түсіру. --&gt;
+&lt;!-- Бұл коменттер пасха-жұмыртқасымақтарым --&gt;
+&lt;hr /&gt;
+&lt;p&gt;Негізгі оқу жолым The Odin Project болса да, қазір ол жолды паузаға қойып, Ruby туралы кітапты оқып жүрмін. Өйткені (1) кітаптағы ақпарат, ол жердегі әдістер жақсы өтіп жатыр, (2) TON-да ары қарай Ruby on Rails-ті таңдайтын болдым, (3) кітаптың қосымша видеосабақтары бар - оларды TON сабақтарымен қатар қарамақшымын.&lt;/p&gt;
+&lt;p&gt;Жалпы алғанда осы кезден бастап ары қарай бағдарламалауды өздігімнен үйрену жолым былай болады:&lt;/p&gt;
+&lt;p&gt;Ruby &lt;a href=&quot;https://rubyschool.us/&quot;&gt;кітап&lt;/a&gt; → TOP &lt;a href=&quot;https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics&quot;&gt;JavaScript Basics&lt;/a&gt; → TOP &lt;a href=&quot;https://www.theodinproject.com/paths/full-stack-ruby-on-rails&quot;&gt;Ruby on Rails&lt;/a&gt; → ??? → PROFIT!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-7</guid>
+      </item>
+      <item>
+        <title>Youtube-тың RSS-арнасы</title>
+        <link>https://yeldar.org/youtube-rss-feed</link>
+        <description>&lt;p&gt;Кешеден бастап елімізге YouTube Premium &lt;a href=&quot;https://t.me/bagdat_mussin_official/351&quot;&gt;келді&lt;/a&gt;. Біз оны бірден қосып алдық. Қазір ютубтан көріп, үйреніп жүрген нәрселер баршылық. Өткізіп жіберуге болмайтын жарнама - шаршатты. Енді бұл мәселе шешілді.&lt;/p&gt;
+&lt;p&gt;Ендігі бір мәселе бұл ютубтың &lt;a href=&quot;https://www.nytimes.com/column/rabbit-hole&quot;&gt;rabbit hole&lt;/a&gt;-ға батыратын функциясы: related videos немесе recommendations. Қолданушы видео көріп отырғанда, оның төменінде немесе оң жағында сол видеоның тақырыбына ұқсас, қолданушыға ұнайды-ау деген бірнеше видеоларды ұсыну. Бұл негізінен қолданушыны өз платформасында ұзағырақ ұстау үшін жасалған қадам. YouTube-тың табысы қолданушылардың сол жерде өткізген уақытыңың ұзақтығына да байланысты. Сондықтан олар осындай функцияны жасап, оны дамытып отыруға мәжбүр деуге де болады. Олай істемесе өспейді. Өспесе өледі. Ал кімнің өлгісі келелі? Сондықтан ютуб қолданушыға мейлінше пайдалы, қызықты видеоны ұсынуға тырысады. Ал сіздің уақытыңыз босқа кетіп жатқанында оның шаруасы жоқ. Шынын айту керек, кейде ютубтың recommendation&#39;ы пайдалы болса да, көбіне бұл уақыт жауы.&lt;/p&gt;
+&lt;p&gt;YouTube-ті мүлде көрмеу әзірге мүмкін емес, бірақ біз бұл процессті барынша айқындап тазалай аламыз.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ыңғайы келсе YouTube Premium алу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Броузерге &lt;a href=&quot;https://www.google.com/search?q=youtube+distraction+free+extension&quot;&gt;&amp;quot;youtube distraction free extension&amp;quot;&lt;/a&gt; санатындағы қосымшаларды орнату. Олар ютубты броузерде қарағанда керек еместің бәрін өшіреді.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ютуб-арналарға қолданба арқылы емес, RSS-арна арқылы жазылу:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ютуб-арнаның бетін ашыңыз да &lt;code&gt;CMD + U&lt;/code&gt; / &lt;code&gt;CTRL + U&lt;/code&gt; деп басасыз. &lt;code&gt;nano&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Сол беттің коды ашылады. Енді &lt;code&gt;CMD + F&lt;/code&gt; / &lt;code&gt;CTRL + F&lt;/code&gt; деп басасыз да, ашылған шағын жолға &lt;code&gt;RSS&lt;/code&gt; деп жазып &lt;code&gt;Enter&lt;/code&gt;-ді басасыз.&lt;/li&gt;
+&lt;li&gt;Сонда шамамен мынандай сілтемені көресіз: &lt;code&gt;https://www.youtube.com/feeds/videos.xml?channel_id=UCyRhzaTKcAsaq4JVgHjFfBg&lt;/code&gt; - бұл сіз ашқан ютуб-арнаның RSS-арнасы.&lt;/li&gt;
+&lt;li&gt;RSS-ке жазылу туралы кейін жазамын. Әзірге &lt;a href=&quot;https://feedly.com/&quot;&gt;Feedly&lt;/a&gt;-ді қолдана беріңіз.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ютубте жазылған арналарды ақырындап &lt;a href=&quot;https://netnewswire.com/&quot;&gt;RSS-ридеріме&lt;/a&gt; көшіріп бастадым.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Жалғасы бар...&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/youtube-rss-feed</guid>
+      </item>
+      <item>
+        <title>codingPath - 8</title>
+        <link>https://yeldar.org/codingPath-8</link>
+        <description>&lt;p&gt;Соңғы аптада кодиңге, оны оқуға дым қарамадым, қарағым келмеді, қарай алмады да. Неге бұлай екенін нақты түсінбедім.&lt;/p&gt;
+&lt;h2&gt;Шаршау&lt;/h2&gt;
+&lt;p&gt;Биыл ауыз бекіткенмін. Ауыз бекіту уақыты шамалы ыңғайсыз. Қазір таңғы 4:30-ға дейін болу керек. Бұндай стресске алдын ала дайындалмаса қадалып қалу оңай екен.
+Демалыс күндер болса да біз дұрыстап демела алмай жүрміз. Мүмкін осы да себеп шығар.&lt;/p&gt;
+&lt;h2&gt;Ноутбугім ойымдағыдай істемей жатыр&lt;/h2&gt;
+&lt;p&gt;Бес жыл бойы жалпы алғанда мүлт етпей қызмет еткен Macbook Air деген ноутым осыдан 3-4 күн бұрын сыр бере бастады. Tab, Caps Lock, Fn (function) деген жиі қолданатын батырмалар істемей қалды. Мәселені шешу үшін істемегенім қалмаған шығар - нәтиже жоқ. Қазір толық бэкап жасап жатырмын, сосын OS-ты қайта орнатпақшымын. Мүмкін осы көмектесіп қалар.&lt;/p&gt;
+&lt;p&gt;Мактарда тілді Caps Lock-ты шертіп ауыстырады. Өте ыңғайлы. Мен қазақ тілінде пернетақтаға қарамай жазамын, жылдамдығым едәуір жақсы. Ал енді тіл ауыстыру керек болған сайын мен тоқтап, тіл ауыстыру тетігін тінтуірмен тауып, оны екі рет шертіп барып қана ары қарай жалғастыра аламын. Қиын.&lt;/p&gt;
+&lt;p&gt;Одан кейін пернетақта баптауларында F1-F12 батырмаларында орналасқан ноуттың функционалдарын Fn-ды баспай-ақ істететін баптау бар. Әдепкіде бұл бап қосылып тұрады. Сондықтан, мысалы, дыбысты көтеру немесе түсіру үшін Fn батырмасын баспай-ақ, бірден F11, не F12 деп баса салуға болады. Бірақ! Фронтендпен айналысқанда бұл функционалды батырмалардың өзіндік қызметтері бар. Демек менің пернетақтам әдепкі баптауында тұрса, Developer Tools-ты ашу үшін F12 емес, Fn+F12 деп басу керек.&lt;/p&gt;
+&lt;p&gt;Мен осы баптауды бірнеше рет қосып, өшіргенмін. Мәселе осыдан басталды деп ойлаймын.&lt;/p&gt;
+&lt;p&gt;Қалай болғанда да құралың дұрыс істемесе бұл оқу барысына әсер етеді.&lt;/p&gt;
+&lt;h2&gt;Оқу және апатия&lt;/h2&gt;
+&lt;p&gt;Мен бұл жолды шынымен қолға алайын деп шешкенім Tech Orda-дан басталған. Одан бері жылдан аса уақыт өтті. Оқуым мен ойлағаннан әлдеқайда ұзарып кеткен сияқты. Қашан қарасаң мен сол кодтауды оқып жүремін. Бұндай жағдай өзіңді де біршама шаршатады. &amp;quot;Бұл қашан аяқталады? Бұл оқу оқуға тұра ма, әлде бұл уақыттың бос кетуі ме?&amp;quot; деген сияқты ойлар кейде мазалап тұрады.&lt;/p&gt;
+&lt;p&gt;Содан мен соңғы аптада бір де бір жол код жазбадым. Соның неге екенін түсінгім келіп осы мәтінде жазып отырмын. Бұл уақытша кідіріс болса екен деп үміттенемін. Бұл кідіріс бір апатия сынды реакцияға алып келді. Осы жолда дым оқымағандай, ештеңе үйренбегендей, ештеңе істей алмайтындай көрінеді.&lt;/p&gt;
+&lt;p&gt;Мен бұл оқуымды тым жоғары бағалап жіберген сияқтымын. Кішкене ғана нәрсені түсінбей қалсам болды, бәрі бекер дегендей, не мен оқығандарымның бәрін бірден түсіне кетуім керек сияқты. Бірақ әрдайым осылай бола бермейді екен. Кейде жаңа концепцияны түсініп, онымен жұмыс істей алу үшін уақыт керек екен.&lt;/p&gt;
+&lt;p&gt;Маған қазір &amp;quot;осылай білім алу, бір нәрсені ұзақ үйрену - норма&amp;quot; дегенді қабылдауым керек сияқты. Оқу керек нәрсе өте көп, ал уақыт жоқ сияқты көрінеді. Бұндай кезде ми оқудан ютубқа қашады. Ютуб оңай, түсінікті, қызық, ыңғайлы болса; оқу қиын, түсіну уақыт пен күш алады және әдепкіде қызық емес, онымен өзіңді қызықтыра алу керек. Бірақ нәтижесін қарасақ: ютуб қарау даму нөлдің аясы, ал оқу қай жағын алып қарасаң да пайдалырақ.&lt;/p&gt;
+&lt;p&gt;Осындай кездерде мен осыған дейін осы білімсіз-ақ өмір сүріп келгенімді ескермейді екенмін. Әрине бұл біліммен менің өмірімнің сапасы өседі, бірақ оқымасам мен құрып кетпеймін ғой?&lt;/p&gt;
+&lt;p&gt;Осы сұрақты шешу үшін психологыма хабарласатын уақыт келген сияқты...&lt;/p&gt;
+&lt;h2&gt;Соңғы пост&lt;/h2&gt;
+&lt;p&gt;Айтпақшы бұл жағдай осы тег бойынша &lt;a href=&quot;https://yeldar.org/codingPath-7&quot;&gt;соңғы постты&lt;/a&gt; жариялаған соң басталғандай болды. Қызығы мен ол постта тура осындай жағдайға түскенде не істеу керегі туралы жазыппын.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-8</guid>
+      </item>
+      <item>
+        <title>Сиқырлы қорап</title>
+        <link>https://yeldar.org/magic-box</link>
+        <description>&lt;p&gt;Астананың шағын кофеханасында американоға тапсырыс бердім де, өзіме ыңғайлы орын тауып, күттім. Бірер минуттан кейін &amp;quot;Маленький американо с молоком готов&amp;quot; деген баристоның дауысы естілді. (Иә, Астанада американоға сүт қосады екен.) Мүмкін қазақша айтар деп кішкене күттім. Сәлден кейін американоның дайын екенін хабарлаған баристоның дауысы тағы шықты - орысша. Барып &amp;quot;Менен кассадан тапсырысты қазақ тілінде қабылдады. Енді сол тапсырысымды неге орыс тілінде жариялайсыз?&amp;quot; десем, Кирил саспай &amp;quot;Мне так удобно!&amp;quot; деп кесе салды.&lt;/p&gt;
+&lt;p&gt;Сол жерде біраз әңгіме айтылды. Кирилдің қазақша сөйлемейтіндігіне үш себеп табылды:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ол қазақ тілінде сөйлей алмайды екен. Окей, неше түрлі жағдай болады, қазіргі Қазақстанда бұл таңғаларлық жайт емес, бірақ... &amp;quot;Кішкентай американо дайын&amp;quot; деп айту үшін қазақ тілін ғұлама деңгейінде білу қажет пе? Жоқ. Ынта болса 30 секундта үйреніп алуға болады ғой. Бұл жерден Кирилдің қазақша сөйлеуге әзірге тырыспағаны көрінеді.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Заңда орысша да айтуға болады-мыс. Бұл да ойлап тауып алған нәрсе екенін &lt;a href=&quot;https://t.me/QazaqshaJaz/783&quot;&gt;заңға жүгіне&lt;/a&gt; отырып көрсеттім.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Мен орысша сөйлей аламын, сондықтан оған қазақша сөйлемеуге болады-мыс. Содан Кирилге қайтадан заң туралы айтып бердім де, кейін біздің елге орыс тілі қалай келгенін білгенімше түсіндірдім.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Соңы: Кирил айтқанымның бәрін түсінгендей басын изеп қалды. Мен бұл кофейняға жиі келемін - олардың жалпы Қазақ тіліне деген көзқарасы қиын: кіре сала орыс тілінде &amp;quot;Здравствуйте!&amp;quot; деп қарсы алады; витринадаға бағалар орыс тілінде ғана; кофейнядағы барлық нұсқаулықтар тек орыс тілінде; т.с.с. айтсаң жалғаса береді. Тек қана экрандағы бағалар ғана қазақ тілінде.&lt;/p&gt;
+&lt;p&gt;Жалғасы: осы жағдайдан кейін Кирил маған мүлде сөйлемейтін болды. Қызметкерлер мені жақсы танып алған. Сондықтан мен ол жерге келгенде қазақша амандасып, қазақша тапсырыс алып, дайын болғанда қазақша хабарлайды.&lt;/p&gt;
+&lt;p&gt;Бұл маған диконт беріп үлгерді.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/magic-box</guid>
+      </item>
+      <item>
+        <title>Баристо неге қазақша сөйлемейді?</title>
+        <link>https://yeldar.org/baristo-lang</link>
+        <description>&lt;p&gt;Астананың шағын кофеханасында американоға тапсырыс бердім де, өзіме ыңғайлы орын тауып, күттім. Бірер минуттан кейін &amp;quot;Маленький американо с молоком готов&amp;quot; деген баристоның дауысы естілді. (Иә, Астанада американоға сүт қосады екен.) Мүмкін қазақша айтар деп кішкене күттім. Сәлден кейін американоның дайын екенін хабарлаған баристоның дауысы тағы шықты - орысша. Барып &amp;quot;Менен кассадан тапсырысты қазақ тілінде қабылдады. Енді сол тапсырысымды неге орыс тілінде жариялайсыз?&amp;quot; десем, Кирил саспай &amp;quot;Мне так удобно!&amp;quot; деп кесе салды.&lt;/p&gt;
+&lt;p&gt;Сол жерде біраз әңгіме айтылды. Кирилдің қазақша сөйлемейтіндігіне үш себеп табылды:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ол қазақ тілінде сөйлей алмайды екен. Окей, неше түрлі жағдай болады, қазіргі Қазақстанда бұл таңғаларлық жайт емес, бірақ... &amp;quot;Кішкентай американо дайын&amp;quot; деп айту үшін қазақ тілін ғұлама деңгейінде білу қажет пе? Жоқ. Ынта болса 30 секундта үйреніп алуға болады ғой. Бұл жерден Кирилдің қазақша сөйлеуге әзірге тырыспағаны көрінеді.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Заңда орысша да айтуға болады-мыс. Бұл да ойлап тауып алған нәрсе екенін &lt;a href=&quot;https://t.me/QazaqshaJaz/783&quot;&gt;заңға жүгіне&lt;/a&gt; отырып көрсеттім.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Мен орысша сөйлей аламын, сондықтан оған қазақша сөйлемеуге болады-мыс. Содан Кирилге қайтадан заң туралы айтып бердім де, кейін біздің елге орыс тілі қалай келгенін білгенімше түсіндірдім.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Соңы: Кирил айтқанымның бәрін түсінгендей басын изеп қалды. Мен бұл кофейняға жиі келемін - олардың жалпы Қазақ тіліне деген көзқарасы қиын: кіре сала орыс тілінде &amp;quot;Здравствуйте!&amp;quot; деп қарсы алады; витринадаға бағалар орыс тілінде ғана; кофейнядағы барлық нұсқаулықтар тек орыс тілінде; т.с.с. айтсаң жалғаса береді. Тек қана экрандағы бағалар ғана қазақ тілінде.&lt;/p&gt;
+&lt;p&gt;Жалғасы: осы жағдайдан кейін Кирил маған мүлде сөйлемейтін болды. Қызметкерлер мені жақсы танып алған. Сондықтан мен ол жерге келгенде қазақша амандасып, қазақша тапсырыс алып, дайын болғанда қазақша хабарлайды.&lt;/p&gt;
+&lt;p&gt;Бұл маған диконт беріп үлгерді.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/baristo-lang</guid>
+      </item>
+      <item>
+        <title>codingPath - 9</title>
+        <link>https://yeldar.org/codingPath-9</link>
+        <description>&lt;p&gt;&lt;a href=&quot;https://yeldar.org/codingPath-8&quot;&gt;Соңғы постта&lt;/a&gt; жазған проблемамды алдыңғы күні түстен кейін психологыммен талқыладым. Жағдайым кәдімгідей жақсарып қалды. Сессиямыз 3 сағатқа созылды. Көп нәрсенің басы шешілді. Бөлісе алатындарымды төменге жазып қойдым.&lt;/p&gt;
+&lt;p&gt;Мен бағдарламалауды жұмысқа тұру үшін емес, өзім ойлап тапқан жобаларды іске асыру үшін үйреніп жатыр екенмін. Сессия барысында менің бағдарламалауға қатысты мақсатым осылай айқындалды. Бұған дейін бейсаналы түрде &amp;quot;бағдарламалауды үйрену мақсаты - жұмысқа тұру&amp;quot; деген шешіммен жүріппін. Бағдарламалаушы ретінде жұмыс шықса мен істей беремін, бірақ жұмысқа тұру мен үшін міндетті емес, оны әдейі (қазір) іздемеймін, ол жұмысты табу үшін &amp;quot;жыртылмаймын&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Бастауыш бағдарламалаушылардың дерлік бәрі, ал кәсібилердің көбі кездесетін басты проблема - жұмыс табу. Естуімше қазір junior ретінде жұмыс табу - аңыз, мүмкін еместің маңы. Сол үшін олар өздеріне жалған тәжірибе, жыл өтілін қосып алады-мыс. Ең мықты деген ақылы курстардан өткен адамдар ұзақ уақыт бойы жұмыс іздейді екен. 100, 200 компанияға түйіндеме жіберіп 0 жауап алу норма дегенді де естідім. Жалпы бұл салада қазір жұмыс аз сияқты. Жұмыс іздеу сайтында бастауыш бағдарламашыға бір орын пайда болса, оған жүздеген адам өтінім бергенін көру біртүрлі нәрсе.&lt;/p&gt;
+&lt;p&gt;Меніңше оқу барысында жұмыс туралы ойланудың, оған қатысты қобалжудың қажеті жоқ.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-9</guid>
+      </item>
+      <item>
+        <title>codingPath - 10</title>
+        <link>https://yeldar.org/codingPath-10</link>
+        <description>&lt;p&gt;&amp;quot;Ката&amp;quot; деген ұғым бар екен. Бұл ұғымды бағдарламалауда да қолданады екен, бірақ мен ойлағаннан басқаша екен. Менің ойымда былай: неге күнде оқуды бастар алдында 5-10 минут үйреніп жатқан нәрселерге қатысты ката жасамасқа деп ойладымда, бастап кеттім. Әрине бұл ката әлі сан алуан түрленеді. Әзірге git terminal-ға ғана қатысты болады. Кейін үйреніп жатқан технологиялар мен тілдерді де қоспақпын. Осылай жасау &amp;quot;ката&amp;quot; ұғымын бірінші рет кездескенде келген, оған соңғы бір &lt;a href=&quot;https://pragmaticstudio.com/blog/2005/03/18/ruby-learning-test-1-are-you-there-world&quot;&gt;оқыған&lt;/a&gt; мәтінде &amp;quot;The learning comes through doing.&amp;quot; деген сөз қосылғанда ойлағаным тірі идея болып көрінді. Мақсат ката жаттығуын көзді жұмып жасай алатындай деңгейге жету; операцияларды іздеп отырмай, аутоматты түрде істей беру. Бұл қарамай мәтін тергенге өте ұқсайды.&lt;/p&gt;
+&lt;p&gt;Соңғы кезде &lt;a href=&quot;https://en.wikipedia.org/wiki/Learning-by-doing&quot;&gt;Learning by doing&lt;/a&gt; деген концепция өте ұнап жүр.&lt;/p&gt;
+&lt;p&gt;Алдыңғы постта аңғарған қатынас пен сол күні дедлейннан алған еркіндік маған бағдарламалауды өз байыбымда оқуыма мұрсат беріп, мен бағдарламалаудағы шеберлік жолына түсіп жатқандаймын. Бұрын бейсаналы мақсатыма байланысты мен тақырыпты тез-тез өтіп, кітапты тезірек тауысуға асықсам, енді тақырыпты түсіне алғанымша түсініп, меңгергім келеді.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/codingPath-10</guid>
+      </item>
+      <item>
+        <title>Post formatting in this theme</title>
+        <link>https://yeldar.org/formatting</link>
+        <description>&lt;p&gt;test7&lt;/p&gt;
+&lt;p&gt;At the command prompt, type &lt;code&gt;nano&lt;/code&gt;.&lt;/p&gt;
+&lt;h2&gt;Heading level 2&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;https://www.markdownguide.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:fake@example.com&quot;&gt;fake@example.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;I love supporting the &lt;strong&gt;&lt;a href=&quot;https://eff.org/&quot;&gt;EFF&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This is the &lt;em&gt;&lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown Guide&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;See the section on &lt;a href=&quot;https://yeldar.org/formatting#code&quot;&gt;&lt;code&gt;code&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Heading level 3&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item
+&lt;ol&gt;
+&lt;li&gt;Indented item&lt;/li&gt;
+&lt;li&gt;Indented item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Fourth item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Heading level 4&lt;/h4&gt;
+&lt;h5&gt;Heading level 5&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;🌡 Preheat oven to 325°F&lt;/li&gt;
+&lt;li&gt;🍪 Drop cookie dough&lt;/li&gt;
+&lt;li&gt;⏰ Bake for 15 min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h6&gt;Heading level 6&lt;/h6&gt;
+&lt;p&gt;on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much &lt;code&gt;cookie dough you&lt;/code&gt; on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on&lt;/p&gt;
+&lt;p&gt;how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough &lt;code&gt;you on how&lt;/code&gt; much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you&lt;/p&gt;
+&lt;p&gt;Depending on how much cookie dough you eat, you’ll have about ==20-22== cookies from this recipe!&lt;/p&gt;
+&lt;p&gt;2024 folder&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/2560px-Fronalpstock_big.jpg&quot; alt=&quot;Sonny and Mariel high fiving.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Don&#39;t forget to leave a star on our repository! :star:&lt;/p&gt;
+&lt;p&gt;text text text &lt;a href=&quot;https://link-url-here.org/&quot;&gt;Link text Here&lt;/a&gt; text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dorothy followed her through many of the beautiful rooms in her castle. The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Аутор&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;text text text text text text text text&lt;/p&gt;
+&lt;p&gt;https://www.youtube.com/watch?v=99Oay2UIXIk&lt;/p&gt;
+&lt;p&gt;text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Month&lt;/th&gt;
+&lt;th&gt;Savings&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;January&lt;/td&gt;
+&lt;td&gt;$250&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;February&lt;/td&gt;
+&lt;td&gt;$80&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;March&lt;/td&gt;
+&lt;td&gt;$420&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;Item&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;In Stock&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;Price&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Python Hat&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;True&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;23.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;SQL Hat&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;True&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;23.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Codecademy Tee&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;False&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;19.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;Codecademy Hoodie&lt;/td&gt;
+&lt;td style=&quot;text-align:center&quot;&gt;False&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;42.99&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+&lt;img src=&quot;https://images.pexels.com/photos/1000498/pexels-photo-1000498.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=260&amp;amp;dpr=1&quot; alt=&quot;Sonny and Mariel high fiving.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&lt;/p&gt;
+&lt;p&gt;https://images.pexels.com/photos/12551278/pexels-photo-12551278.jpeg?auto=compress&amp;amp;cs=tinysrgb&amp;amp;w=1260&amp;amp;h=750&amp;amp;dpr=1&lt;/p&gt;
+&lt;p&gt;text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&lt;/p&gt;
+&lt;p&gt;text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/formatting</guid>
+      </item>
+  </channel>
+</rss>
