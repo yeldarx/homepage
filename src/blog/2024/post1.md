@@ -4,7 +4,7 @@ permalink: formatting
 date: 2024-05-14
 ---
 
-test6
+test7
 
 At the command prompt, type `nano`.
 
