@@ -1,2 +1,3 @@
 node_modules/
-src/blog/_drafts
+src/blog/_drafts/
+public/
