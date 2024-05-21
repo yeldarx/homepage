@@ -3,18 +3,18 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Test post 4</title>
+    <title>Test post 5</title>
     <link rel="stylesheet" href="/assets/main.css" />
   </head>
   <body>
     <header class="post-header">
-      <h1 class="post-title">Test post 4</h1>
+      <h1 class="post-title">Test post 5</h1>
       <div class="post-info">
         <p>20.05.2024</p>
       </div>
     </header>
     
-    <main><p>test post text 4</p>
+    <main><p>test post text 5</p>
 </main>
 
     <footer class="footer">
