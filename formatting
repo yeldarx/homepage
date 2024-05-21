@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Post formatting in this theme</title>
+    <link rel="stylesheet" href="/assets/main.css" />
+  </head>
+  <body>
+    <header class="post-header">
+      <h1 class="post-title">Post formatting in this theme</h1>
+      <div class="post-info">
+        <p>14.05.2024</p>
+      </div>
+    </header>
+    
+    <main><p>At the command prompt, type <code>nano</code>.</p>
+<h2>Heading level 2</h2>
+<hr>
+<p><a href="https://www.markdownguide.org">https://www.markdownguide.org</a></p>
+<p><a href="mailto:fake@example.com">fake@example.com</a></p>
+<hr>
+<p>I love supporting the <strong><a href="https://eff.org">EFF</a></strong>.</p>
+<p>This is the <em><a href="https://www.markdownguide.org">Markdown Guide</a></em>.</p>
+<p>See the section on <a href="#code"><code>code</code></a>.</p>
+<hr>
+<h3>Heading level 3</h3>
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item
+<ol>
+<li>Indented item</li>
+<li>Indented item</li>
+</ol>
+</li>
+<li>Fourth item</li>
+</ol>
+<h4>Heading level 4</h4>
+<h5>Heading level 5</h5>
+<ol>
+<li>🌡 Preheat oven to 325°F</li>
+<li>🍪 Drop cookie dough</li>
+<li>⏰ Bake for 15 min</li>
+</ol>
+<h6>Heading level 6</h6>
+<p>on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much <code>cookie dough you</code> on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on</p>
+<p>how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough <code>you on how</code> much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you on how much cookie dough you</p>
+<p>Depending on how much cookie dough you eat, you’ll have about ==20-22== cookies from this recipe!</p>
+<p>2024 folder</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/2560px-Fronalpstock_big.jpg" alt="Sonny and Mariel high fiving."></p>
+<p>Don't forget to leave a star on our repository! :star:</p>
+<p>text text text <a href="https://link-url-here.org">Link text Here</a> text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</p>
+<blockquote>
+<p>Dorothy followed her through many of the beautiful rooms in her castle. The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.</p>
+<p><strong>Аутор</strong></p>
+</blockquote>
+<p>text text text text text text text text</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/99Oay2UIXIk" frameborder="0" allowfullscreen></iframe></p>
+<p>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</p>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Savings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January</td>
+<td>$250</td>
+</tr>
+<tr>
+<td>February</td>
+<td>$80</td>
+</tr>
+<tr>
+<td>March</td>
+<td>$420</td>
+</tr>
+</tbody>
+</table>
+<p>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Item</th>
+<th style="text-align:center">In Stock</th>
+<th style="text-align:right">Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Python Hat</td>
+<td style="text-align:center">True</td>
+<td style="text-align:right">23.99</td>
+</tr>
+<tr>
+<td style="text-align:left">SQL Hat</td>
+<td style="text-align:center">True</td>
+<td style="text-align:right">23.99</td>
+</tr>
+<tr>
+<td style="text-align:left">Codecademy Tee</td>
+<td style="text-align:center">False</td>
+<td style="text-align:right">19.99</td>
+</tr>
+<tr>
+<td style="text-align:left">Codecademy Hoodie</td>
+<td style="text-align:center">False</td>
+<td style="text-align:right">42.99</td>
+</tr>
+</tbody>
+</table>
+<p>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+<img src="https://images.pexels.com/photos/1000498/pexels-photo-1000498.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=260&amp;dpr=1" alt="Sonny and Mariel high fiving."></p>
+<p>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</p>
+<p>https://images.pexels.com/photos/12551278/pexels-photo-12551278.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</p>
+<p>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</p>
+<p>text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text</p>
+</main>
+
+    <footer class="footer">
+      <div class="nav"><a href="/">Басты бет</a></div>
+    </footer>
+  </body>
+</html>
