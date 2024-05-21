@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    {% for post in collections.blog | reverse %}
+    <div class="post">
+      <ul>
+        <li>
+          <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a
+          ><span class="post-info"> – {{ post.date | date: "%Y-%m-%d" }}</span>
+        </li>
+      </ul>
+    </div>
+    {% endfor %}
+  </body>
+</html>

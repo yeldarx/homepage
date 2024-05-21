@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>codingPath - 5</title>
+    <link rel="stylesheet" href="/assets/main.css" />
+  </head>
+  <body>
+    <header class="post-header">
+      <h1 class="post-title">codingPath - 5</h1>
+      <div class="post-info">
+        <p>11.02.2024</p>
+      </div>
+    </header>
+    
+    <main><h2>Flexbox</h2>
+<p><code>flex</code> алғашқыда түсінуге де, меңгеруге де өте қиын дүние. Бірақ тастамасаң оны үйреніп алуға болатын сияқты. Флекстің қасиеттері басқаларға қарағанда көп. Барлық дүние контейнерлерден және сол контейнердің элементтерінен құралады (элементтер өз бетіне ішіндегі элементтерге контейнер бола алады). Қазір түсінгенім ең бастысы бұл қасиеттер <em>контейнерге</em> жазыла ма, жоқ <em>элементке</em> жазылама ма осыны білу екен. Өйткен бұл қасиеттің бәрі тек қана контейнердің ішіндегі элементтерге ғана <em>әсер</em> етеді.</p>
+<p>Мысалы, <code>flex</code> контейнердің денесіне жазылатын (бірақ сол контейнердің элементтеріне әсер ететін) <code>align-items</code>, <code>justify-content</code> деген қасиеттер бар. Осыларды <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container">ажыратып алу</a> керек. <code>flex-direction</code> ауысқанда әлгі қасиеттер де өзгеретінін ескермей оларды шатастыратын адамдар да көп екен.</p>
+<p>The Odin Project-тің HTML және CSS (Flexbox) бөлімінің жобасын жасайтін жерін жеттім. Бұл саладағы білгішбектер &quot;бағдарламалауды меңгеру тек қана жеке жобаларды жасау арқылы іске асады&quot; дейді. Мен тезірек JS деген бөлімге жетіп, Foundation-ды аяқтағым келіп отыр. Неге бұлай асығып жатқаным өзіме де құпия болып тұр. Сөйтіп өзімді сабырға шақырып, TON <a href="https://www.theodinproject.com/lessons/foundations-landing-page">ұсынған</a> жобаны іске асыруға үгіттеп отырмын. Фаундейшннан кейін JavaScript пен Ruby арасында <a href="https://www.theodinproject.com/lessons/foundations-choose-your-path-forward">таңдау</a> жасау керек болады. Егер The Odin Project-тің <a href="https://github.com/TheOdinProject/theodinproject">негізі</a> Ruby тілі екенін ескерсек таңдау қызық болайын деп тұр. Тіпті бұл туралы бөлек пост жазуға болатын сияқты.</p>
+<h2>Eleventy</h2>
+<p>Мына сайтым мен блогым <a href="https://docusaurus.io/">Docusaurus</a> деген SSG-ге негізделген. Бұл коды ашық, Meta-ға тиесілі, өте қуатты статикалық сайт жасағыштардың бірі. Негізінен Docusaurus жеке сайт, блог жасауға емес құжаттама құруға арналған. Сондықтан мен басқа бір альтернатива іздедім. Критериім: оның бэкендінде NodeJS (JavaScript) болуы керек. Өйткені әзірге білетін тілім сол ғана. Таптым: <a href="https://www.11ty.dev">Eleventy</a>. Осы күнге дейін мен қаншама CMS көрсемде Eleventy беріп отырған еркіндікті бірінші рет кездестіріп отырмын.</p>
+<p>Қазір Eleventy мен үшін Android немесе басқа телефоннан iPhone-ға көшкенмен тең (сияқты болып көрініп тұр). Осыдан шамамен 10 жыл бұрын айфонға ауысқаннан кейін мен басқа телефондарға мүлде қарамайтын болдым. Оған дейін сол кездегі телефондардың дерлік бәрін білетінмін. Сол кезде істеген Евросетьтің күнделікті болмаса да аптасына бірнеше рет барып тұратын тұрақты <em>оқырманы</em> болғанмын. Содан кейін iPhone алдым да оның ыңғайлығына көңілім толғаны сонша мен жалпы телефондар туралы ізденуді қойдым. Сол сияқты енді аман-есен Eleventy-ге ауысып алсам басқа SSG-лерге қарауды қоямын деп сенемін.</p>
+<p>Егер осы жолға бірге түсемін десеңіз <a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/uzM5lETc6Sg" frameborder="0" allowfullscreen></iframe>&amp;list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW&amp;pp=iAQB">мына</a> видео-сабақтардан бастауға болады.</p>
+<h2>LeetCode</h2>
+<p>Оқуым басталғалы бірнеше рет кіріп беттемеген сайтыма қайта орадым. Оған себепші болған <a href="https://leetcode.com/studyplan/30-days-of-javascript/">мына</a> челлендж. Бірінші сабағын қарап шығып пікірлер бөлімін оқысам LeetCode тапсырмаларының Editorial деген қойындысы болады екен. Ол жерде осы тапсырманы шешуге көмектесетін ақпарат болады екен (шешімі емес).</p>
+<p>Тағы бір себеп: бағдарламалауды меңгергенде дым қақпайтын тақырыпты тастамай, оны қайта-қайта шұқи берсең күндердің бір күнінде сен ол тақырыпты шемішкедей шағып тастайды екенсің. Соңы жұмысқа тұрар алдында, (егер біреу өзі офер ұсынбаса) сұхбатқа дайындалғанда осы сайттың көмегіне жүгінерім анық емес пе. Енді ол кезді күтпей-ақ қазір айналыса берсе не болады?</p>
+<h2>Қосымша қызықты сілтемелер</h2>
+<ul>
+<li>https://flexbox.malven.co &amp; https://grid.malven.co;</li>
+<li><a href="https://podcasts.apple.com/podcast/id1671019533">Self-taught Devs Podcast</a> – мына подкастың жүргізушілері менің осындай посттар жазып жүргенімнің дұрыс екенін растап жатыр.</li>
+<li>Sr Dev's Review of The Odin Project: <a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/gjPSVNVelro" frameborder="0" allowfullscreen></iframe>">Part 1</a> &amp; <a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/jToxebcZNvA" frameborder="0" allowfullscreen></iframe>">Part 2</a>;</li>
+<li><a href="https://yep.so/p/jobsimulatordev">Dev Job Simulator</a>;</li>
+<li><a href="https://selectstarsql.com">Select Star SQL</a>;</li>
+<li>DSA <a href="https://www.geeksforgeeks.org/data-structures/">1</a>, <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">2</a>, <a href="https://algs4.cs.princeton.edu/home/">3 (book)</a>;</li>
+<li><a href="https://www.samanthaming.com/flexbox30/">Learn Flexbox with 30 Code Tidbits</a> - бір оқып шықтым. Flexbox қасиеттерін оңай түсіндіретін, тез оқылатын, жеңіл дүние екен;</li>
+<li><a href="https://scrimba.com/learn/flexbox/">Scrimba Flexbox Course</a>.</li>
+</ul>
+<p>PS. Иә, мен iPhone алдым.</p>
+</main>
+
+    <footer class="footer">
+      <div class="nav"><a href="/">Басты бет</a></div>
+    </footer>
+  </body>
+</html>
