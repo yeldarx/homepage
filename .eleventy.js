@@ -5,6 +5,14 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function(eleventyConfig) {
     eleventyConfig.addGlobalData("metadata", require("./src/_data/metadata.js"));
 
+    eleventyConfig.addFilter("getAllTags", collection => {
+		let tagSet = new Set();
+		for(let item of collection) {
+			(item.data.tags || []).forEach(tag => tagSet.add(tag));
+		}
+		return Array.from(tagSet);
+	});
+
     eleventyConfig.addCollection("blog", function(collectionApi) {
         return collectionApi.getFilteredByTag("blog").sort((a, b) => b.date - a.date);
       });
