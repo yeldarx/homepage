@@ -3,7 +3,8 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
-    eleventyConfig.addGlobalData("title", "Елдар Құдайбергенов");
+    eleventyConfig.addGlobalData("metadata", require("./src/_data/metadata.js"));
+
     eleventyConfig.addCollection("blog", function(collectionApi) {
         return collectionApi.getFilteredByTag("blog").sort((a, b) => b.date - a.date);
       });
