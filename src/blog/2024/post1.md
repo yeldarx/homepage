@@ -4,6 +4,8 @@ permalink: formatting
 date: 2024-05-14
 ---
 
+test6
+
 At the command prompt, type `nano`.
 
 ## Heading level 2
