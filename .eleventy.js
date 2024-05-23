@@ -28,7 +28,11 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("postDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toFormat('dd.LL.yyyy');
     });
+    
     eleventyConfig.addPassthroughCopy("src/assets/main.css");
+    eleventyConfig.addPassthroughCopy("src/assets/likely.min.css");
+    eleventyConfig.addPassthroughCopy("src/assets/likely.min.js");
+
 
     return {
         dir: {
