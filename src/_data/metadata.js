@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Елдар Құдайбергенов",
+	title: "Yeldar.Org",
 	url: "https://yeldar.org/",
 	language: "kk",
 	description: "Жеке сайт, блог.",
