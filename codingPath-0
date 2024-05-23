@@ -21,7 +21,7 @@
 <p>Осы тегке қатысты қосымша контент жарияланатын <a href="https://k.yeldar.org/cp">codingPath additional content</a> деген подкаст бастап қойдым.</p>
 </main>
 
-  <button id="toggleButton">▶ Постпен бөлісу</button>
+  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

@@ -46,7 +46,7 @@
 <p>PS. Мына сілтемелерді жинап, жариялайтын сілтеме-блог керек сияқты ма? Eleventy-де осы оңай жасауға болады ;-D</p>
 </main>
 
-  <button id="toggleButton">▶ Постпен бөлісу</button>
+  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

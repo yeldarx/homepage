@@ -34,7 +34,7 @@
 <p>Сосын бұл буткемп біте сала <a href="https://badwebsite.club/js-bootcamp-feb-2024.html">екіншісі</a> басталады. Ол JavaScript туралы болады да, fCC-дегі <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">JavaScript Algorithms and Data Structures (Beta)</a> деген бөлімді толығымен қамтиды. Ақпанның басында басталып Сәуірге дейін болады.</p>
 </main>
 
-  <button id="toggleButton">▶ Постпен бөлісу</button>
+  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

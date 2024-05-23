@@ -29,7 +29,7 @@
 <p>Сонымен қатар бұл қадам басқа бір жобаға бастау болып отыр: жылдар бойы жыйған тәжірибеме сүйене отырып, подкастиң бойынша ашық кітап жазып бастадым, ол кітапты сіз де менімен бірге жазсаңыз болады: https://openpodcasting.com</p>
 </main>
 
-  <button id="toggleButton">▶ Постпен бөлісу</button>
+  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

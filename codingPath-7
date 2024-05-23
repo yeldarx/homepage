@@ -32,7 +32,7 @@
 <p>Ruby <a href="https://rubyschool.us/">кітап</a> → TOP <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics">JavaScript Basics</a> → TOP <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails">Ruby on Rails</a> → ??? → PROFIT!</p>
 </main>
 
-  <button id="toggleButton">▶ Постпен бөлісу</button>
+  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>
