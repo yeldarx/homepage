@@ -146,14 +146,28 @@ iframe[src*="youtube.com/embed/"] {
     margin: 10px auto;
   }
   
-
-#toggleText {
-    width: 100%;
+.shareDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
-.toggleButton {
+#toggleDiv {
     padding: 4px 6px;
+    font-size: small;
     cursor: pointer;
-    border: 1px solid #f5f5f5;
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#toggleText {
+    padding: 2px 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     border-radius: 5px;
 }

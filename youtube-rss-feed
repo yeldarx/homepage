@@ -39,9 +39,14 @@
 <p><em>Жалғасы бар...</em></p>
 </main>
 
-  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
-    <div id="toggleText" class="toggleBody" style="display: none;">
-        <div class="likely">
+
+<div class="shareDiv">
+
+
+    <div id="toggleDiv">▶ Постпен бөлісу</div>
+
+    <div id="toggleText" style="display: none;">
+<div class="likely">
             <div class="facebook">Share</div>
             <div class="twitter">Tweet</div>
             <div class="telegram">Send</div>
@@ -50,21 +55,20 @@
         <div class="reddit">Share</div>
       </div>
     </div>
+</div>
 
     <script>
-    
     document.addEventListener('DOMContentLoaded', function () {
-    const toggleButton = document.getElementById('toggleButton');
+    const toggleDiv = document.getElementById('toggleDiv');
     const toggleText = document.getElementById('toggleText');
 
-    toggleButton.addEventListener('click', function () {
-        if (toggleText.style.display === 'none') {
-            toggleText.style.display = 'block';
-        } else {
-            toggleText.style.display = 'none';
-        }
+    toggleDiv.addEventListener('click', function () {
+        toggleDiv.style.display = 'none';
+        toggleText.style.display = 'flex';
     });
 });
+
+    
     </script>
 
     <footer class="footer">
