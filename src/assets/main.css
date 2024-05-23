@@ -35,6 +35,8 @@ a:visited {
     flex-wrap: wrap;
     margin-top: 15px;
     font-size: small;
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
 }
 
 .nav {
