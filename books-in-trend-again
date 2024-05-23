@@ -24,7 +24,7 @@
 <p>Посттың қысқа сілтемесі: https://k.yeldar.org/B4nPT</p>
 </main>
 
-  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
+  <button id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

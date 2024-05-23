@@ -22,7 +22,7 @@
 <p>PS. Бұрын &quot;егер гуглдан табуға болатын нәрсе болса, адамнан сұрамаңыз&quot; деген сөз болған. Енді сол &quot;егер ChatGPT-ден білуге болатын нәрсе болса, онда оны адамнан сұрамаңыз&quot; деген қағидаға түрленген сияқты.</p>
 </main>
 
-  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
+  <button id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

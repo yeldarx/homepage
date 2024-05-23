@@ -28,7 +28,7 @@
 <p>Баламыз жазылып боп қалды деуге болады. Енді біздің Роза екеуіміздің кезегіміз келгендей. Біз баламыз сияқты қатты ауырмадық, бірақ жұмыс істеп, сабақ оқуға әлім жетпеді. Сөйтіп апта соңына дейін еш сабақ оқи алмадым.</p>
 </main>
 
-  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
+  <button id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>

@@ -22,7 +22,7 @@
 <p>Тәжірибе көрсетіп тұрғандай постардың сілтемелірі өзгеруі әбден мүмкін екен. Сондықтан мен әр постымы тұрақты қысқа сілтеме қосамын: https://k.yeldar.org/c1Eo6 - бұл осы посттың сілтемесі. Болашақта бұл посттың негізгі сілтемесі өзгерсе де, осы сітеме арқылы тауып аласыз.</p>
 </main>
 
-  <button class="toggleButton" id="toggleButton">▶ Постпен бөлісу</button>
+  <button id="toggleButton">▶ Постпен бөлісу</button>
     <div id="toggleText" class="toggleBody" style="display: none;">
         <div class="likely">
             <div class="facebook">Share</div>
