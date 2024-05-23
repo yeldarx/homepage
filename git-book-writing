@@ -27,7 +27,7 @@
 
 
 <div class="shareDiv">
-    <div id="toggleDiv">▶ Постпен бөлісу</div>
+    <div id="toggleDiv">▶ Постты тарату</div>
 
     <div id="toggleText" style="display: none;">
         <div class="likely">
