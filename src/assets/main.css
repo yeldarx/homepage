@@ -44,10 +44,17 @@ a:visited {
     border-radius: 5px;
 }
 
-.nav {
-    margin-right: 10px;
-    margin-left: 10px;
-  }
+.footer a {
+    color: #777;
+    text-decoration: none;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.footer a:hover {
+    background-color: #e0e0e0;
+    color: #333;
+}
 
 img {
     max-width: 100%;
@@ -100,6 +107,7 @@ code {
 .post-info{
     color: #aeaeae;
     font-size: small;
+    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -112,6 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-size: 2em;
     font-weight: bold;
+    text-align: center;
 }
 
 h2 {
@@ -169,5 +178,4 @@ iframe[src*="youtube.com/embed/"] {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border-radius: 5px;
 }
