@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Yeldar.Org</title>
+        <link rel="stylesheet" href="/assets/main.css">
+    </head>
+    <body>
+        <header>
+            <h1>Қолдау</h1>
+        </header>
+        <main>
+            <p>Patreon: <a href="https://k.yeldar.org/patreon">https://k.yeldar.org/patreon</a></p>
+<p>Kaspi: <a href="https://k.yeldar.org/kaspi">https://k.yeldar.org/kaspi</a></p>
+<p>Донейшн: <a href="https://k.yeldar.org/donate">https://k.yeldar.org/donate</a></p>
+<p>DonationAlerts: <a href="https://k.yeldar.org/dalerts">https://k.yeldar.org/dalerts</a></p>
+
+        </main>
+        <footer class="footer">
+            <p>&copy; 2024 Елдар Құдайбергенов &#x2022; <a href="https://yeldar.org/feed.xml">RSS</a></p>    
+        </footer>
+
+    </body>
+</html>
