@@ -1,8 +1,8 @@
 module.exports = {
-	title: "Yeldar.Org",
+	title: "Елдар Құдайбергенов",
 	url: "https://yeldar.org/",
 	language: "kk",
-	description: "Жеке сайт, блог.",
+	description: "Подкастер, бағдарламашы.",
 	author: {
 		name: "Елдар Құдайбергенов",
 		email: "mail@yeldar.org",
