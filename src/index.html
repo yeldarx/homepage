@@ -2,24 +2,19 @@
 layout: base.njk
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ metadata.title }}</title>
-  </head>
-  <body>
-    <h1>{{ metadata.title }}</h1>
+<section id="blog">
+  <h2>Блог</h2>
 
-    {% for post in collections.blog | reverse %}
-    <div class="post">
-      <ul>
-        <li>
-          <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
-        </li>
-      </ul>
-    </div>
-    {% endfor %}
+  {% for post in collections.blog | reverse %}
+  <div class="post">
+    <ul>
+      <li>
+        <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
+      </li>
+    </ul>
+  </div>
+  {% endfor %}
+</section>
+
   </body>
 </html>
