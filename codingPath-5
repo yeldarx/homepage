@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>codingPath - 5</title>
+    <title>codingPath - 5 - Елдар Құдайбергенов</title>
     <link rel="stylesheet" href="/assets/main.css" />
     <link rel="stylesheet" href="/assets/likely.min.css">
   </head>
@@ -22,7 +22,7 @@
 <h2>Eleventy</h2>
 <p>Мына сайтым мен блогым <a href="https://docusaurus.io/">Docusaurus</a> деген SSG-ге негізделген. Бұл коды ашық, Meta-ға тиесілі, өте қуатты статикалық сайт жасағыштардың бірі. Негізінен Docusaurus жеке сайт, блог жасауға емес құжаттама құруға арналған. Сондықтан мен басқа бір альтернатива іздедім. Критериім: оның бэкендінде NodeJS (JavaScript) болуы керек. Өйткені әзірге білетін тілім сол ғана. Таптым: <a href="https://www.11ty.dev">Eleventy</a>. Осы күнге дейін мен қаншама CMS көрсемде Eleventy беріп отырған еркіндікті бірінші рет кездестіріп отырмын.</p>
 <p>Қазір Eleventy мен үшін Android немесе басқа телефоннан iPhone-ға көшкенмен тең (сияқты болып көрініп тұр). Осыдан шамамен 10 жыл бұрын айфонға ауысқаннан кейін мен басқа телефондарға мүлде қарамайтын болдым. Оған дейін сол кездегі телефондардың дерлік бәрін білетінмін. Сол кезде істеген Евросетьтің күнделікті болмаса да аптасына бірнеше рет барып тұратын тұрақты <em>оқырманы</em> болғанмын. Содан кейін iPhone алдым да оның ыңғайлығына көңілім толғаны сонша мен жалпы телефондар туралы ізденуді қойдым. Сол сияқты енді аман-есен Eleventy-ге ауысып алсам басқа SSG-лерге қарауды қоямын деп сенемін.</p>
-<p>Егер осы жолға бірге түсемін десеңіз <a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/uzM5lETc6Sg" frameborder="0" allowfullscreen></iframe>&amp;list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW&amp;pp=iAQB">мына</a> видео-сабақтардан бастауға болады.</p>
+<p>Егер осы жолға бірге түсемін десеңіз <a href="https://www.youtube.com/watch?v=uzM5lETc6Sg&amp;list=PLtLXFsdHI8JTwScHvB924dY3PNwNJjjuW&amp;pp=iAQB">мына</a> видео-сабақтардан бастауға болады.</p>
 <h2>LeetCode</h2>
 <p>Оқуым басталғалы бірнеше рет кіріп беттемеген сайтыма қайта орадым. Оған себепші болған <a href="https://leetcode.com/studyplan/30-days-of-javascript/">мына</a> челлендж. Бірінші сабағын қарап шығып пікірлер бөлімін оқысам LeetCode тапсырмаларының Editorial деген қойындысы болады екен. Ол жерде осы тапсырманы шешуге көмектесетін ақпарат болады екен (шешімі емес).</p>
 <p>Тағы бір себеп: бағдарламалауды меңгергенде дым қақпайтын тақырыпты тастамай, оны қайта-қайта шұқи берсең күндердің бір күнінде сен ол тақырыпты шемішкедей шағып тастайды екенсің. Соңы жұмысқа тұрар алдында, (егер біреу өзі офер ұсынбаса) сұхбатқа дайындалғанда осы сайттың көмегіне жүгінерім анық емес пе. Енді ол кезді күтпей-ақ қазір айналыса берсе не болады?</p>
@@ -30,7 +30,7 @@
 <ul>
 <li>https://flexbox.malven.co &amp; https://grid.malven.co;</li>
 <li><a href="https://podcasts.apple.com/podcast/id1671019533">Self-taught Devs Podcast</a> – мына подкастың жүргізушілері менің осындай посттар жазып жүргенімнің дұрыс екенін растап жатыр.</li>
-<li>Sr Dev's Review of The Odin Project: <a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/gjPSVNVelro" frameborder="0" allowfullscreen></iframe>">Part 1</a> &amp; <a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/jToxebcZNvA" frameborder="0" allowfullscreen></iframe>">Part 2</a>;</li>
+<li>Sr Dev's Review of The Odin Project: <a href="https://www.youtube.com/watch?v=gjPSVNVelro">Part 1</a> &amp; <a href="https://www.youtube.com/watch?v=jToxebcZNvA">Part 2</a>;</li>
 <li><a href="https://yep.so/p/jobsimulatordev">Dev Job Simulator</a>;</li>
 <li><a href="https://selectstarsql.com">Select Star SQL</a>;</li>
 <li>DSA <a href="https://www.geeksforgeeks.org/data-structures/">1</a>, <a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">2</a>, <a href="https://algs4.cs.princeton.edu/home/">3 (book)</a>;</li>
