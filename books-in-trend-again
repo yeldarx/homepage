@@ -24,35 +24,6 @@
 <p>Посттың қысқа сілтемесі: https://k.yeldar.org/B4nPT</p>
 </main>
 
-
-<div class="shareDiv">
-    <div id="toggleDiv">▶ Постты тарату</div>
-
-    <div id="toggleText" style="display: none;">
-        <div class="likely">
-            <div class="facebook">Share</div>
-            <div class="twitter">Tweet</div>
-            <div class="whatsapp">Send</div>
-            <div class="telegram">Send</div>
-            <div class="linkedin">Share</div>
-      </div>
-    </div>
-</div>
-
-    <script>
-    document.addEventListener('DOMContentLoaded', function () {
-    const toggleDiv = document.getElementById('toggleDiv');
-    const toggleText = document.getElementById('toggleText');
-
-    toggleDiv.addEventListener('click', function () {
-        toggleDiv.style.display = 'none';
-        toggleText.style.display = 'flex';
-    });
-});
-
-    
-    </script>
-
     <footer class="footer">
       <p><a href="https://yeldar.org/">Басты бет</a> <a href="https://yeldar.org/feed.xml">RSS</a></p>
     </footer>
