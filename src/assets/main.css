@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', Arial, sans-serif;
+    font-family: "Bitter", Georgia, Times, serif;
     color: #454545;
     font-size: 16px;
     margin: 0 auto;
@@ -157,31 +157,6 @@ iframe {
     margin: 10px auto;
   }
   
-.shareDiv {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
-
-#toggleDiv {
-    padding: 4px 6px;
-    font-size: small;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-#toggleText {
-    padding: 2px 4px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
 .site-description {
     font-size: 1em;
     color: #777;
