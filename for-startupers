@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Стартап бастағыңыз келсе, стартап академиясына келіңіз - Елдар Құдайбергенов</title>
     <link rel="stylesheet" href="/assets/main.css" />
-    <link rel="stylesheet" href="/assets/likely.min.css">
   </head>
   <body>
     <header class="post-header">
@@ -55,6 +54,5 @@
     <footer class="footer">
       <p><a href="https://yeldar.org/">Басты бет</a> <a href="https://yeldar.org/feed.xml">RSS</a></p>
     </footer>
-    <script src="/assets/likely.min.js" type="text/javascript"></script>
   </body>
 </html>
