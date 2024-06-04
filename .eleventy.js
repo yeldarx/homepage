@@ -24,6 +24,7 @@ module.exports = function(eleventyConfig) {
     });
     
     eleventyConfig.addPassthroughCopy("src/assets/main.css");
+    eleventyConfig.addPassthroughCopy("src/assets/img/favicon.ico");
     eleventyConfig.addPassthroughCopy("src/assets/likely.min.css");
     eleventyConfig.addPassthroughCopy("src/assets/likely.min.js");
 
