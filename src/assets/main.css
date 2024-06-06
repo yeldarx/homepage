@@ -25,6 +25,19 @@ h2, h3, h4, h5, h6 {
     color: #484848;
 }
 
+main > p:first-of-type {
+    text-indent: 2em;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p {
+    text-indent: 2em;
+}
+
 h1 {
     font-size: 2em;
     font-weight: bold;
