@@ -32,7 +32,7 @@
 </main>
 
     <footer class="footer">
-      <p><a href="https://yeldar.org/">Басты бет</a> <a href="https://yeldar.org/feed.xml">RSS</a></p>
+      <p><a href="https://yeldar.org/">Басты бет</a> <a href="https://yeldar.org/feed.xml">RSS</a> <a href="https://github.com/yeldarx/homepage/tree/main/./src/blog/2024/codingPath-7.md" target="_blank">Edit this page</a></p>
     </footer>
   </body>
 </html>
