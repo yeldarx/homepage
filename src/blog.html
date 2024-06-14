@@ -1,10 +1,10 @@
 ---
-layout: base.njk
+layout: blog.njk
 ---
 
 <section id="blog">
-  <h2>Блог</h2>
-  {% for post in collections.blog limit:10 | reverse %}
+  <h2>Посттар</h2>
+  {% for post in collections.blog | reverse %}
   <div class="post">
     <ul>
       <li>
@@ -13,5 +13,4 @@ layout: base.njk
     </ul>
   </div>
   {% endfor %}
-  <a href="/blog">Барлық посттар</a>
 </section>
