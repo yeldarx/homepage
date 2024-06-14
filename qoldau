@@ -25,7 +25,7 @@
 
         </main>
         <footer class="footer">
-            <p>&copy; 2024 Елдар Құдайбергенов <a href="https://yeldar.org/feed.xml">RSS</a></p>    
+            <p>&copy; 2024 Елдар Құдайбергенов <a href="/blog">Блог</a> <a href="https://yeldar.org/feed.xml">RSS</a></p>    
         </footer>
     </body>
 </html>
