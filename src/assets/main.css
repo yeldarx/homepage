@@ -31,14 +31,14 @@ main > p:first-of-type {
     text-indent: 2em;
 }
 
-h1 + p,
+/* h1 + p,
 h2 + p,
 h3 + p,
 h4 + p,
 h5 + p,
 h6 + p {
     text-indent: 2em;
-}
+} */
 
 h1 {
     font-size: 2em;
