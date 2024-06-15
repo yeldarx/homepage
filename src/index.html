@@ -4,7 +4,7 @@ layout: base.njk
 
 <section id="blog">
   <h2>Блог</h2>
-  <p>Блогтағы соңғы 5 пост</p>
+  <p class="section-description">Блогтағы соңғы 5 пост</p>
 
   {% assign total_posts = collections.blog | size %} {% assign remaining_posts =
   total_posts | minus: 5 %} {% for post in collections.blog limit:5 | reverse %}
