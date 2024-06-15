@@ -73,7 +73,7 @@ h6 {
 
 a {
     color: #07a;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 
 a:visited {
@@ -221,8 +221,23 @@ section h2 {
     text-align: left;
 }
 
-section p {
+/* section p {
     font-size: 1em;
     color: #777;
     text-align: center;
+} */
+
+.post-date {
+    font-size: 0.8em;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f4f4f4;
+    padding: 1px 2px;
+    border-radius: 4px;
 }
+
+/* .rss-icon {
+    display: inline-block;
+    text-decoration: none;
+    width: 24px;
+    height: 24px;
+  } */
