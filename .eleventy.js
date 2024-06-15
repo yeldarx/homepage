@@ -25,6 +25,7 @@ module.exports = function(eleventyConfig) {
     
     eleventyConfig.addPassthroughCopy("src/assets/main.css");
     eleventyConfig.addPassthroughCopy("src/assets/img/favicon.ico");
+    eleventyConfig.addPassthroughCopy("src/assets/img/rss-icon.svg"); // rss icon
 
     return {
         dir: {
