@@ -4,14 +4,20 @@ layout: base.njk
 
 <section id="blog">
   <h2>Блог</h2>
-  {% for post in collections.blog limit:10 | reverse %}
+  <p>Блогтағы соңғы 5 пост</p>
+
+  {% assign total_posts = collections.blog | size %} {% assign remaining_posts =
+  total_posts | minus: 5 %} {% for post in collections.blog limit:5 | reverse %}
+
   <div class="post">
-    <ul>
-      <li>
-        <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
-      </li>
-    </ul>
+    <p>
+      <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
+    </p>
   </div>
-  {% endfor %}
-  <a href="/blog">Барлық посттар</a>
+  {% endfor %} {% if remaining_posts > 0 %}
+  <p>
+    Қалған {{ remaining_posts }} пост
+    <a href="/blog">блог бетінде</a> жиналған.
+  </p>
+  {% endif %}
 </section>
