@@ -11,7 +11,7 @@ body {
     margin-bottom: 1em;
     margin-top: 1em;
     line-height: 1.5;
-    text-align: left;
+    text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -27,8 +27,12 @@ h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-main > p:first-of-type {
+main > p {
     text-indent: 2em;
+}
+
+main > p:first-of-type {
+    text-indent: 0;
 }
 
 h1 + p,
@@ -37,7 +41,7 @@ h3 + p,
 h4 + p,
 h5 + p,
 h6 + p {
-    text-indent: 2em;
+    text-indent: 0;
 }
 
 .section-description {
@@ -226,12 +230,6 @@ section h2 {
     text-align: left;
 }
 
-/* section p {
-    font-size: 1em;
-    color: #777;
-    text-align: center;
-} */
-
 .post-date {
     font-size: 0.8em;
     font-family: 'Courier New', Courier, monospace;
@@ -239,10 +237,3 @@ section h2 {
     padding: 1px 2px;
     border-radius: 4px;
 }
-
-/* .rss-icon {
-    display: inline-block;
-    text-decoration: none;
-    width: 24px;
-    height: 24px;
-  } */
