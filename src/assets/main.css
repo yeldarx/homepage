@@ -157,10 +157,11 @@ tr:nth-child(even) {
 
 blockquote {
     margin: 0;
-    padding: 10px;
+    padding: 10px 50px 10px 50px;
     border-left: 4px solid #ccc;
     background-color: #f9f9f9;
     font-style: italic;
+    text-align: left;
 }
 
 code {
