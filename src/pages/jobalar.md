@@ -14,4 +14,6 @@ permalink: jobalar
 
 - Қазақстандық подкастардың жаңа эпизодтары жарияланатын телеглам-арна – [@podcastindex](https://t.me/podcastindex).
 
+- [Подкастиң негіздері](https://online.podcasting.center/) тегін онлайн-курс.
+
 - [Подкастиң: тәуелсіз технология, шексіз контент](https://openpodcasting.com/) кітабы.
