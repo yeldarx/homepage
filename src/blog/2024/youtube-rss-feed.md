@@ -1,6 +1,6 @@
 ---
 title: Youtube-тың RSS-арнасы
-permalink: youtube-rss-feed
+# permalink: youtube-rss-feed
 date: 2024-03-14
 tags:
   - YouTube

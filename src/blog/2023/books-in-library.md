@@ -1,7 +1,7 @@
 ---
 title: Подкастиңге қатысты кітаптарым енді кітапханада
 date: 2023-12-29
-permalink: books-in-library
+# permalink: books-in-library
 tags:
   - кітап
   - подкастиң

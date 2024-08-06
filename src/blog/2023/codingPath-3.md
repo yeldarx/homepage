@@ -2,10 +2,9 @@
 title: codingPath - 3
 description: codingPath – бағдарламалауды үйрену барысын сипаттап жазатын постарды біріктіретін тег. Бағдарламалауды өздігінен үйреніп жүрген адамдарға пайдалы болуы мүмкін.
 date: 2023-11-27
-permalink: codingPath-3
+# permalink: codingPath-3
 tags:
   - codingPath
-draft: true
 ---
 
 ## 20-26.11.2023

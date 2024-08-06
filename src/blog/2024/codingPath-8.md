@@ -2,7 +2,7 @@
 title: codingPath - 8
 description: codingPath – бағдарламалауды үйрену барысын сипаттап жазатын постарды біріктіретін тег. Бағдарламалауды өздігінен үйреніп жүрген адамдарға пайдалы болуы мүмкін.
 date: 2024-04-02
-permalink: codingPath-8
+# permalink: codingPath-8
 tags:
   - codingPath
 ---

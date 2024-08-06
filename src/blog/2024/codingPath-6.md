@@ -2,7 +2,7 @@
 title: codingPath - 6
 description: codingPath – бағдарламалауды үйрену барысын сипаттап жазатын постарды біріктіретін тег. Бағдарламалауды өздігінен үйреніп жүрген адамдарға пайдалы болуы мүмкін.
 date: 2024-02-24
-permalink: codingPath-6
+# permalink: codingPath-6
 tags:
   - codingPath
   - The Odin Project

@@ -1,6 +1,6 @@
 ---
 title: Бағдарламалау тілінің құжаттамасын оқу
-permalink: doc-reading-chatgpt
+# permalink: doc-reading-chatgpt
 description: пост сипаттамасы.
 date: 2024-03-02
 tags:

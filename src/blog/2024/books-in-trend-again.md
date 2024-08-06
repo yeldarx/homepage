@@ -1,7 +1,7 @@
 ---
 title: "Биыл кітап тақырыбы трендте"
 date: 2024-02-09
-permalink: books-in-trend-again
+# permalink: books-in-trend-again
 tags:
   - кітап
   - подкастиң

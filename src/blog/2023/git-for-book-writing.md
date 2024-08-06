@@ -2,7 +2,7 @@
 title: Git кітап жазу құралы бола алады… екен
 # description:
 date: 2023-11-01
-permalink: git-book-writing
+# permalink: git-book-writing
 tags:
   - git
   - github

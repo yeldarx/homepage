@@ -1,6 +1,6 @@
 ---
 title: Сәлем, Әлем – v3
-permalink: salem-alem
+# permalink: salem-alem
 date: 2024-02-26
 # tags:
 #   - second tag

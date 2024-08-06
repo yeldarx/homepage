@@ -2,7 +2,7 @@
 title: Стартап бастағыңыз келсе, стартап академиясына келіңіз
 # description:
 date: 2023-12-25
-permalink: for-startupers
+# permalink: for-startupers
 tags:
   - стартап
   - сілтемелер

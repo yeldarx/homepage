@@ -2,7 +2,7 @@
 title: codingPath - 7
 description: codingPath – бағдарламалауды үйрену барысын сипаттап жазатын постарды біріктіретін тег. Бағдарламалауды өздігінен үйреніп жүрген адамдарға пайдалы болуы мүмкін.
 date: 2024-03-10
-permalink: codingPath-7
+# permalink: codingPath-7
 tags:
   - codingPath
   - Ruby

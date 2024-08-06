@@ -1,6 +1,6 @@
 ---
 title: Бариста неге қазақша сөйлемейді?
-permalink: barista-lang
+# permalink: barista-lang
 date: 2024-04-03
 tags:
   - Қазақ тілі

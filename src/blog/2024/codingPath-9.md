@@ -2,7 +2,7 @@
 title: codingPath - 9
 description: codingPath – бағдарламалауды үйрену барысын сипаттап жазатын постарды біріктіретін тег. Бағдарламалауды өздігінен үйреніп жүрген адамдарға пайдалы болуы мүмкін.
 date: 2024-04-04
-permalink: codingPath-9
+# permalink: codingPath-9
 tags:
   - codingPath
   - психология
