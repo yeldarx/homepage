@@ -9,17 +9,17 @@
     </head>
     <body>
         <header>
-            <div class="image-container">
+        <!-- <div class="image-container">
                 <img src="/assets/img/yeldar-li.webp" alt="Елдар Құдайбергенов фото">
-            </div>
+            </div> -->
             <h1>Елдар Құдайбергенов</h1>
-            <p class="site-description">Подкастер, бағдарламашы.</p>
+            <!-- <p class="site-description">Подкастер, бағдарламашы.</p>
             <nav class="section-buttons">
                 <a href="/jobalar" class="btn">Жобалар</a>
-                <a href="/blog" class="btn">Блог</a>
+                <a href="/blog" class="btn">Блог</a> -->
                 <!-- <a href="/qoldau" class="btn">Қолдау</a> -->
-                <a href="https://feeds.podcasting.center/" class="btn">Подкаст</a>
-            </nav>
+                <!-- <a href="https://feeds.podcasting.center/" class="btn">Подкаст</a>
+            </nav>  -->
         </header>
         <main>
             <!-- - Patreon: <https://k.yeldar.org/patreon> -->
