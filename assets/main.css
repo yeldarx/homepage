@@ -4,14 +4,14 @@
 body {
     font-family: "Bitter", Georgia, Times, serif;
     color: #454545;
-    font-size: 16px;
+    font-size: 14px;
     margin: 0 auto;
     max-width: 600px;
     padding: 0 1.5em;
     margin-bottom: 1em;
     margin-top: 1em;
     line-height: 1.5;
-    text-align: justify;
+    text-align: left;
 }
 
 h1, h2, h3, h4, h5, h6 {
