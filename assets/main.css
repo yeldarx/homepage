@@ -90,12 +90,7 @@ a:visited {
 
 @media screen and (max-width: 600px) {
     body {
-        font-size: 16px;
-    }
-
-    #toggleText {
-        padding-top: 10px;
-        width: 100%;
+        font-size: 12px;
     }
 }
 
