@@ -44,6 +44,17 @@ h6 + p {
     text-indent: 0;
 } */
 
+main > p:first-child:first-letter {
+    color: #454545;
+    float: left;
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    padding-top: 4px;
+    padding-right: 8px;
+}
+
 .section-description {
     text-indent: 0;
 }
