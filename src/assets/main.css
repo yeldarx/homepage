@@ -44,6 +44,7 @@ h6 + p {
     text-indent: 0;
 } */
 
+/* https://css-tricks.com/snippets/css/drop-caps/ */
 main > p:first-child:first-letter {
     color: #454545;
     float: left;
