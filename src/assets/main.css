@@ -54,6 +54,7 @@ main > p:first-of-type:first-letter {
     line-height: 56px;
     padding-top: 4px;
     padding-right: 8px;
+    text-transform: uppercase;
 }
 
 .section-description {
