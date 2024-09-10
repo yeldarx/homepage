@@ -45,7 +45,7 @@ h6 + p {
 } */
 
 /* https://css-tricks.com/snippets/css/drop-caps/ */
-main > p:first-child:first-letter {
+main > p:first-of-type:first-letter {
     color: #454545;
     float: left;
     font-family: Georgia;
