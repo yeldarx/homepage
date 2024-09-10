@@ -6,10 +6,12 @@ layout: blog.njk
   <h2>Посттар</h2>
   {% for post in collections.blog | reverse %}
   <div class="post">
-    <p>
-      <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
-      <span class="post-date">{{ post.data.date | postDate }}</span>
-    </p>
+    <ul>
+      <li>
+        <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
+      </li>
+    </ul>
+    <!-- <span class="post-date">{{ post.data.date | postDate }}</span> -->
   </div>
   {% endfor %}
 </section>

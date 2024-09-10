@@ -13,15 +13,17 @@ layout: base.njk
 
 <section id="blog">
   <!-- <h2>Блог</h2> -->
-  <p class="section-description">Блогтағы соңғы 5 пост</p>
+  <p class="section-description">Блогтағы соңғы 5 пост:</p>
 
   {% assign total_posts = collections.blog | size %} {% assign remaining_posts =
   total_posts | minus: 5 %} {% for post in collections.blog limit:5 | reverse %}
 
   <div class="post">
-    <p>
-      <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
-    </p>
+    <ul>
+      <li>
+        <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
+      </li>
+    </ul>
   </div>
   {% endfor %} {% if remaining_posts > 0 %}
   <p>
