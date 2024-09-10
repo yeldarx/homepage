@@ -27,7 +27,7 @@ h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
-main > p {
+/* main > p {
     text-indent: 2em;
 }
 
@@ -42,7 +42,7 @@ h4 + p,
 h5 + p,
 h6 + p {
     text-indent: 0;
-}
+} */
 
 .section-description {
     text-indent: 0;
