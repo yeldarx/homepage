@@ -23,10 +23,19 @@ module.exports = function(eleventyConfig) {
         return DateTime.fromJSDate(dateObj).toFormat('dd.LL.yyyy');
     });
     
-    eleventyConfig.addPassthroughCopy("src/assets/main.css");
+    // eleventyConfig.addPassthroughCopy("src/assets/main.css");
     eleventyConfig.addPassthroughCopy("src/assets/img/favicon.ico");
     eleventyConfig.addPassthroughCopy("src/assets/img/yeldar-li.webp");
     eleventyConfig.addPassthroughCopy("src/assets/img/rss-icon.svg"); // rss icon
+
+    eleventyConfig.addPassthroughCopy("src/assets/main-new.css");
+    eleventyConfig.addPassthroughCopy("src/assets/img/c.svg");
+    eleventyConfig.addPassthroughCopy("src/assets/img/github.svg");
+    eleventyConfig.addPassthroughCopy("src/assets/img/linkedin.svg");
+    eleventyConfig.addPassthroughCopy("src/assets/img/rss.svg");
+    eleventyConfig.addPassthroughCopy("src/assets/img/podcast.svg");
+    eleventyConfig.addPassthroughCopy("src/assets/img/homepage.svg");
+    eleventyConfig.addPassthroughCopy("src/assets/img/yeldar.jpg");
 
     return {
         dir: {
