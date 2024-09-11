@@ -151,6 +151,12 @@ footer a {
   text-decoration: none; 
 }  */
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 header {
   padding: 10px 0;
 }
