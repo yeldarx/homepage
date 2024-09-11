@@ -54,11 +54,15 @@ body {
   }
 
 p > code {
-  background-color: hsla(188, 100%, 50%, 0.089);
-  border-radius: 10% / 50%;
-  padding: 0 5px;
-  font-size: 0.9em;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  padding: 0 3px;
 }
+
+p > code:hover {
+    background-color: #d8fdff;
+    border-radius: 10% / 50%;
+    padding: 0 3px;
+  }
 
 pre code.language-c {
   display: block;
@@ -98,12 +102,22 @@ a {
     transform: scale(1.2);
 }
 
-.footer {
+footer {
+    font-size: 11pt;
+    color: #666;
     margin-top: 30px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding-left: 5px;
+    background: rgb(195,195,195);
+    background: linear-gradient(90deg, rgba(195,195,195,1) 0%, rgba(255,255,255,1) 60%); 
 }
+
+footer a:link { 
+    text-decoration: none;
+}
+
+footer a {
+    color: #666;
+  }
 
 .home-link {
     display: inline-block;
@@ -125,20 +139,20 @@ a {
   text-align: left;
 }
 
-.copyright {
+/* .copyright {
   margin-top: 40px;
   color: #7d7d7d;
   font-size: small;
   text-align: left;
-}
+} */
 
-.copyright a {
+/* .copyright a {
   color: #7d7d7d;
 }
 
 .copyright a:link { 
   text-decoration: none; 
-} 
+}  */
 
 header {
   padding: 10px 0;

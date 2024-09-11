@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Елдар Құдайбергенов</title>
     <link rel="stylesheet" href="/assets/main-new.css" />
-    <link rel="stylesheet" href="/assets/main.css" />
     <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
   </head>
   <body>
@@ -65,18 +64,7 @@
 </li>
 </ul>
 </main>
-    <footer class="footer">
-      <div class="copyright">
-        <p>
-          &copy; 2024
-          <a href="https://yeldar.org">Елдар Құдайбергенов</a>
-        </p>
-      </div>
 
-      <!-- <p>
-        &copy; 2024 Елдар Құдайбергенов <a href="/blog">Блог</a>
-        <a href="https://yeldar.org/feed.xml">RSS</a>
-      </p> -->
-    </footer>
+    <footer>&copy; 2024</footer>
   </body>
 </html>
