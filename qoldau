@@ -1,37 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Елдар Құдайбергенов</title>
-        <link rel="stylesheet" href="/assets/main.css">
-        <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
-    </head>
-    <body>
-        <header>
-        <!-- <div class="image-container">
-                <img src="/assets/img/yeldar-li.webp" alt="Елдар Құдайбергенов фото">
-            </div> -->
-            <h1>Елдар Құдайбергенов</h1>
-            <!-- <p class="site-description">Подкастер, бағдарламашы.</p>
-            <nav class="section-buttons">
-                <a href="/jobalar" class="btn">Жобалар</a>
-                <a href="/blog" class="btn">Блог</a> -->
-                <!-- <a href="/qoldau" class="btn">Қолдау</a> -->
-                <!-- <a href="https://feeds.podcasting.center/" class="btn">Подкаст</a>
-            </nav>  -->
-        </header>
-        <main>
-            <!-- - Patreon: <https://k.yeldar.org/patreon> -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Елдар Құдайбергенов</title>
+    <link rel="stylesheet" href="/assets/main-new.css" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <div class="header-content">
+        <img
+          src="/assets/img/yeldar-li.webp"
+          alt="Елдар Құдайбергенов фото"
+          class="profile-photo"
+          width="50"
+          height="50"
+        />
+        <div>
+          <h1 class="site-title">Елдар Құдайбергенов</h1>
+          <p class="site-description">Жеке сайт</p>
+        </div>
+      </div>
+    </header>
+
+    <!-- Icons from https://www.svgrepo.com/collection/tiny-app-icons/ -->
+    <div class="icon-links icon-margin linkedin-icon">
+      <a href="https://k.yeldar.org/li" title="LinkedIn"
+        ><img src="/assets/img/linkedin.svg" alt="LinkedIn"
+      /></a>
+      <a href="https://k.yeldar.org/gh" title="GitHub">
+        <img src="/assets/img/github.svg" alt="GitHub" />
+      </a>
+      <a href="/feed.xml" title="RSS Feed">
+        <img src="/assets/img/rss.svg" alt="RSS Feed" />
+      </a>
+      <a href="https://k.yeldar.org/podcast" title="Podcast">
+        <img src="/assets/img/podcast.svg" alt="Podcast" />
+      </a>
+    </div>
+
+    <main><!-- - Patreon: <https://k.yeldar.org/patreon> -->
 <ul>
 <li>Kaspi: <a href="https://k.yeldar.org/kaspi">https://k.yeldar.org/kaspi</a></li>
 </ul>
 <!-- - Донейшн: <https://k.yeldar.org/donate> -->
 <!-- - DonationAlerts: <https://k.yeldar.org/dalerts> -->
+</main>
+    <footer class="footer">
+      <div class="copyright">
+        <p>
+          &copy; 2024
+          <a href="https://yeldar.org">Елдар Құдайбергенов</a>
+        </p>
+      </div>
 
-        </main>
-        <footer class="footer">
-            <p>&copy; 2024 Елдар Құдайбергенов <a href="/blog">Блог</a> <a href="https://yeldar.org/feed.xml">RSS</a></p>    
-        </footer>
-    </body>
+      <!-- <p>
+        &copy; 2024 Елдар Құдайбергенов <a href="/blog">Блог</a>
+        <a href="https://yeldar.org/feed.xml">RSS</a>
+      </p> -->
+    </footer>
+  </body>
 </html>

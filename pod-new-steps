@@ -4,16 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Подкастиңдегі жаңа қадамдар - Елдар Құдайбергенов</title>
-    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="stylesheet" href="/assets/main-new.css" />
   </head>
   <body>
     <header class="post-header">
       <h1 class="post-title">Подкастиңдегі жаңа қадамдар</h1>
       <div class="post-info">
-        <p>Елдар Құдайбергенов &#x2022; 12.10.2023</p>
+        <!-- <p>Елдар Құдайбергенов &#x2022; 12.10.2023</p> -->
       </div>
     </header>
-    
+
     <main><p>2019 жылдан бері кәсіби түрде подкастиңмен айналысамын. 2023 жылдан бастап уеб-бағдарламалауды меңгеруді бастадым. Соңғы кезде подкастиңге уақыт аз болып жүргені рас. Мен саналы түрде подкастарымды жариялауды азайтып, бағдарламалауға көбірек уақыт бөліп жүрмін.</p>
 <p>Осыдан бір ай бұрын &quot;Қазақстан подкастиңін қорғап, оны көпшілікке тарату жолында істей алғанымша істедім ғой, енді болар&quot; деген ойға келгенмін. Оған себеп болған QazPodcast-тың &quot;Соңғы жорық&quot; деген эпизодында баяндалған оқиға. Бірақ, Құдай оңдап, психологым қолдап, бұл белестен жаңа бір жол таба алғандаймын.</p>
 <p>Қысқасы, осы кезге дейін подкастиң саласында жиған тәжирибемді ысырып тастау қате болар деген шешімге келдім, жалпы подкастерлік ісіме көзқарасымды өзгерткенім дұрыс болады екен. Қазір діттеп отырған бірнеше қадам бар:</p>
@@ -31,8 +31,41 @@
 </ul>
 </main>
 
+    <div class="post-info">
+      <p>12.10.2023 &#x2022; Елдар Құдайбергенов</p>
+    </div>
+
     <footer class="footer">
-      <p><a href="/">Басты бет</a> <a href="/blog">Блог</a> <a href="https://yeldar.org/feed.xml">RSS</a> <a href="https://github.com/yeldarx/homepage/tree/main/./src/blog/2023/pod-new-steps.md" target="_blank">Edit this page</a></p>
+      <div class="home-link">
+        <a href="/" title="Homepage">
+          <img src="/assets/img/homepage.svg" alt="Homepage" />
+        </a>
+      </div>
+      <!-- Icons from https://www.svgrepo.com/collection/tiny-app-icons/ -->
+      <div class="icon-links icon-margin">
+        <a href="https://k.yeldar.org/li" title="LinkedIn"
+          ><img src="/assets/img/linkedin.svg" alt="LinkedIn"
+        /></a>
+        <a href="https://k.yeldar.org/gh" title="GitHub">
+          <img src="/assets/img/github.svg" alt="GitHub" />
+        </a>
+        <a href="/feed.xml" title="RSS Feed">
+          <img src="/assets/img/rss.svg" alt="RSS Feed" />
+        </a>
+        <a href="https://k.yeldar.org/podcast" target="_blank" title="Podcast">
+          <img src="/assets/img/podcast.svg" alt="Podcast" />
+        </a>
+      </div>
+
+      <!-- <p>
+        <a href="/">Басты бет</a> <a href="/blog">Блог</a>
+        <a href="https://yeldar.org/feed.xml">RSS</a>
+        <a
+          href="https://github.com/yeldarx/homepage/tree/main/./src/blog/2023/pod-new-steps.md"
+          target="_blank"
+          >Edit this page</a
+        >
+      </p> -->
     </footer>
   </body>
 </html>
