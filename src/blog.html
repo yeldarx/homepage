@@ -2,11 +2,11 @@
 layout: blog.njk
 ---
 
-<section id="blog">
+<section class="blog">
   {% for post in collections.blog | reverse %}
-  <div class="blogposts">
+  <div class="post">
         <span class="post-date">{{ post.data.date | postDate }}</span> <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
-    <!-- <span class="post-date">{{ post.data.date | postDate }}</span> -->
+    <!-- <span class="post-title">{{ post.data.date | postDate }}</span> -->
   </div>
   {% endfor %}
 </section>

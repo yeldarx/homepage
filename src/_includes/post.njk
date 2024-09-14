@@ -13,12 +13,10 @@
         <!-- <p>{{ metadata.author.name }} &#x2022; {{ date | postDate }}</p> -->
       </div>
     </header>
-
-    <main>{{ content | safe }}</main>
-
     <div class="post-info">
       <p>{{ date | postDate }} &#x2022; {{ metadata.author.name }}</p>
     </div>
+    <main>{{ content | safe }}</main>
 
     <footer class="footer">
       <div class="home-link">
