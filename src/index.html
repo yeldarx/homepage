@@ -12,10 +12,10 @@ layout: base.njk
 </p> -->
 
 <section class="blog">
-  <p class="section-description">Блогтағы соңғы 5 пост:</p>
+  <p class="section-description">Блогтағы соңғы 10 пост:</p>
 
   {% assign total_posts = collections.blog | size %} {% assign remaining_posts =
-  total_posts | minus: 5 %} {% for post in collections.blog limit:5 | reverse %}
+  total_posts | minus: 10 %} {% for post in collections.blog limit:10 | reverse %}
 
   <div class="post">
         <p><span class="post-date">{{ post.data.date | postDate }}</span> <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a></p>
