@@ -198,6 +198,10 @@ p > code:hover {
     padding: 0 3px;
   }
 
+.post {
+  margin-left: 10px;
+}
+
 .post p {
   margin: 5px 0;
 }
