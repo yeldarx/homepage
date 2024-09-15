@@ -1,10 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Geologica:wght@600&display=swap');
 
+@font-face {
+  font-family: 'Georgia';
+  src: url('/assets/fonts/georgia/georgia.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('/assets/fonts/georgia/georgiab.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('/assets/fonts/georgia/georgiai.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Georgia';
+  src: url('/assets/fonts/georgia/georgiaz.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
 body {
     background: white;
     color: black;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Georgia", "Times New Roman", Times, serif;
     font-size: 12pt;
+    line-height: 1.2;
     margin: 10px;
     max-width: 576px;
 }
@@ -188,6 +217,7 @@ img {
 
 p > code {
   font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-size: 0.9em;
   padding: 0 3px;
 }
 
