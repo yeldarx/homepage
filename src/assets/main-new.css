@@ -278,10 +278,6 @@ footer a {
     align-items: center;
 }
 
-header {
-  /* padding: 10px 0; */
-}
-
 .header-content {
   display: flex;
   align-items: center;
