@@ -5,8 +5,10 @@ layout: blog.njk
 <section class="blog">
   {% for post in collections.blog | reverse %}
   <div class="post">
+    <p>
         <span class="post-date">{{ post.data.date | postDate }}</span> <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
     <!-- <span class="post-title">{{ post.data.date | postDate }}</span> -->
+    </p>
   </div>
   {% endfor %}
 </section>
