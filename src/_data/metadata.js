@@ -8,6 +8,6 @@ module.exports = {
 		email: "mail@yeldar.org",
 		// url: "https://example.com/about-me/"
 	},
-	// blog_title: "Құдай берген блог",
+	blog_title: "Блог",
 	blog_description: "Жеке блог"
 }
