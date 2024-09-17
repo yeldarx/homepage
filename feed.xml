@@ -547,5 +547,25 @@
         <dc:creator>Елдар Құдайбергенов</dc:creator>
         <guid>https://yeldar.org/blog/welding-days/</guid>
       </item>
+      <item>
+        <title>2014 жылға Макбугым сатылды</title>
+        <link>https://yeldar.org/blog/macbook-air-sold/</link>
+        <description>&lt;p&gt;Соңғы айларда ғана бір-екі батырмасы істемей &lt;a href=&quot;https://yeldar.org/blog/codingPath-8/&quot;&gt;қалғаны&lt;/a&gt; болмаса, 2019 жылы қомақты қаржыға қолдан сатып алған құралым маған адал қызмет етті дей аламын. Осы кезге дейін компьютермен қандай жұмыс істелді бәрін сода істедім. Енді онымен қоштасатын уақытта келіпті. Өзім қалай сатып алдым тура солай саттым. Керек деген барлық файлдарымды көшіріп алдым. Әзірге Розаның Магын қолдана тұрамын.&lt;/p&gt;
+&lt;p&gt;Жаңа ноутбукке бірден орнатылған бағдарламалар:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VSCode&lt;/li&gt;
+&lt;li&gt;Git, оны GitHub-қа қостым&lt;/li&gt;
+&lt;li&gt;NodeJS&lt;/li&gt;
+&lt;li&gt;Hindenburg PRO&lt;/li&gt;
+&lt;li&gt;Audacity&lt;/li&gt;
+&lt;li&gt;Reaper&lt;/li&gt;
+&lt;li&gt;VLC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Осы тізімді көріп-ақ менің әдетте айналысатыным кодиң мен подкастиң екені байқалады, иә?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/blog/macbook-air-sold/</guid>
+      </item>
   </channel>
 </rss>
