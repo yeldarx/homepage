@@ -6,14 +6,10 @@ layout: blog.njk
   <p class="section-description">
     Бұл менің күнделігім тәріздес жеке блогым. Тақырып, формат, жанр және тағы басқа сипат бойынша еш шек жоқ. Посттар ұнаса блогымның <a href="/feed.xml">RSS-анрасына</a> (?) жазылып қойыңыз. Әзірге посттарға пікір қалдыра алмайсыз, бірақ менімен басқа да жолдармен байланыса аласыз.
   </p>
-  <!-- <p>
-    Бұл блогқа осыған дейін жариялаған барлық посттарымды жинамақ ойым бар.
-  </p> -->
   {% for post in collections.blog | reverse %}
   <div class="post">
     <p>
         <span class="post-date">{{ post.data.date | postDate }}</span> <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
-    <!-- <span class="post-title">{{ post.data.date | postDate }}</span> -->
     </p>
   </div>
   {% endfor %}
