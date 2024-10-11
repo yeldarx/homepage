@@ -1,0 +1,5 @@
+{
+    "layout": "podbook.njk",
+    "tags": ["podbook"],
+    "permalink": "podbook/{{ page.fileSlug }}/"
+}
