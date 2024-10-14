@@ -1,0 +1,6 @@
+{
+    "layout": "base.njk",
+    "tags": ["podbook"],
+    "permalink": "podbook/{{ page.fileSlug }}/",
+    "author": "Елдар Құдайбергенов"
+}
