@@ -1,8 +1,6 @@
 ---
 title: Подкастиңдегі жаңа қадамдар
-# description:
 date: 2023-10-12
-permalink: pod-new-steps
 tags:
   - подкастиң
   - құрылтай
