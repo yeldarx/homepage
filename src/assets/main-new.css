@@ -84,7 +84,7 @@ iframe {
 blockquote {
   margin: 0;
   padding: 5px 15px;
-  border-left: 4px dotted #ccc;
+  border-left: 4px solid #ccc;
   background-color: #f9f9f9;
   font-style: italic;
   text-align: left;
