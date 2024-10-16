@@ -186,16 +186,18 @@ img {
     border: 0;
   }
 
-p > code {
+p > code, li > code {
+  background-color: hsl(0, 0%, 90%);
+  border-radius: 10% / 50%;
   font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   font-size: 0.9em;
-  padding: 0 3px;
+  padding: 0 5px;
 }
 
-p > code:hover {
+p > code:hover, li > code:hover {
     background-color: #d8fdff;
     border-radius: 10% / 50%;
-    padding: 0 3px;
+    padding: 0 5px;
   }
 
 .post {
