@@ -22,6 +22,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addFilter("postDate", (dateObj) => {
         return DateTime.fromJSDate(dateObj).toFormat('dd.LL.yyyy');
     });
+    eleventyConfig.addPlugin(require("@11ty/eleventy-navigation"));
     
     eleventyConfig.addPassthroughCopy("src/assets");
     eleventyConfig.addPassthroughCopy("src/blog/images");
