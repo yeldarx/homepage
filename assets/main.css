@@ -32,17 +32,6 @@ body {
 
 /* Desktop devices */
 /* @media (min-width: 768px) {
-  body {
-      font-size: 14pt;
-  }
-
-  .footer { 
-      justify-content: space-around;
-  }
-
-   .icon-links {
-      gap: 15px;
-   }
 } */
    
   h1,
@@ -85,21 +74,6 @@ h6 {
   font-weight: bold;
 }
 
-/* https://css-tricks.com/snippets/css/drop-caps/ */
-
-/* main > p:first-of-type:first-letter {
-    color: #454545;
-    float: left;
-    font-family: Georgia;
-    font-weight: bold;
-    font-size: 48px;
-    line-height: 56px;
-    padding-top: 4px;
-    padding-right: 8px;
-    padding-left: 4px;
-    text-transform: uppercase;
-} */
-
 iframe {
   width: 100%;
   max-width: 600px;
@@ -109,7 +83,7 @@ iframe {
 
 blockquote {
   margin: 0;
-  padding: 10px 50px 10px 50px;
+  padding: 5px 15px;
   border-left: 4px solid #ccc;
   background-color: #f9f9f9;
   font-style: italic;
@@ -159,10 +133,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* .blog .post {
-  margin: 10px 0;
-} */
-
 .blog .post-date {
   font-size: 0.8em;
   background-color: #f4f4f4;
@@ -186,16 +156,18 @@ img {
     border: 0;
   }
 
-p > code {
+p > code, li > code {
+  background-color: hsl(0, 0%, 90%);
+  border-radius: 10% / 50%;
   font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   font-size: 0.9em;
-  padding: 0 3px;
+  padding: 0 5px;
 }
 
-p > code:hover {
+p > code:hover, li > code:hover {
     background-color: #d8fdff;
     border-radius: 10% / 50%;
-    padding: 0 3px;
+    padding: 0 5px;
   }
 
 .post {
@@ -316,4 +288,20 @@ footer a {
   color: #666;
   margin: 0;
   margin-top: 5px;
+}
+
+.line {
+  margin: 10px 0;
+  height: 3px;
+  width: 100%;
+  background: linear-gradient(
+    to right,
+    #1E90FF 10% 30%,
+    #20B2AA 30% 40%,
+    #9370DB 40% 60%,
+    #FF8C00 60% 80%,
+    #FFB6C1 80% 95%,
+    #b512ad 95%
+);
+
 }
