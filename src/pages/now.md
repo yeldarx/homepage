@@ -20,5 +20,3 @@ eleventyNavigation:
 - Подкастыма жаңа эпизод салуды әзірге тоқтата тұрамын. Уақыт жоқ.
 
 *“Now page” жайында толығырақ [мына](https://nownownow.com/about) жерде.*
-
-test1
