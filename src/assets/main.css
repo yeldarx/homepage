@@ -296,16 +296,12 @@ footer a {
   width: 100%;
   background: linear-gradient(
     to right,
-    #1E90FF 10%,
-    #6ef5ff 10% 20%,
-    #ADFF2F 20% 30%,
+    #1E90FF 10% 30%,
     #20B2AA 30% 40%,
-    #9370DB 40% 50%,
-    #FFD700 50% 60%,
-    #FF8C00 60% 70%,
-    #8B008B 70% 80%,
-    #FFB6C1 80% 90%,
-    #FF6347 90%
+    #9370DB 40% 60%,
+    #FF8C00 60% 80%,
+    #FFB6C1 80% 95%,
+    #b512ad 95%
 );
 
 }
