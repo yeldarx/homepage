@@ -55,27 +55,3 @@
 
   </body>
 </html>
-
-<footer class="footer">
-  <div class="home-link">
-    <nav class="navigation-container">
-      <ul class="navigation">
-        {% for item in collections.all | eleventyNavigation %}
-          <li>
-            <a href="{{ item.url }}">{{ item.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </nav>
-  </div>
-
-  <div class="icon-links icon-margin">
-    <a href="/feed.xml" title="RSS Feed">
-      <img src="/assets/img/rss.svg" alt="RSS Feed" />
-    </a>
-    <a href="https://k.yeldar.org/podcast" target="_blank" title="Podcast">
-      <img src="/assets/img/podcast.svg" alt="Podcast" />
-    </a>
-  </div>
-</footer>
-
