@@ -1,0 +1,6 @@
+{
+    "layout": "greencard.njk",
+    "tags": ["greencard"],
+    "permalink": "greencard/{{ page.fileSlug }}/",
+    "author": "Елдар Құдайбергенов"
+}
