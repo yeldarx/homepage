@@ -373,3 +373,13 @@ footer a {
   width: 200px;
   height: auto;
 }
+
+.right-float-photo + p > em {
+  float: right;
+  clear: right;
+  width: 200px; 
+  margin: 0;
+  text-align: center;
+  padding: 0 0 5px 5px;
+  font-size: small;
+}
