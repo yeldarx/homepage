@@ -7,6 +7,12 @@ eleventyNavigation:
     order: 5
 ---
 
-<!--[-->Day by day<!-- ](/greencard/days/) --> log of my <span style="color:#00897b;">Green</span> card journey. Initially started logging since 23.10.2024.
+<img class="right-float-photo" src="/assets/img/green-mail.jpg" alt=""  />
 
-- [2024 жыл](/greencard/2024/)
+*Гринкартамды қолыма алған сәт. 2024 жыл.*
+
+Бұл бетте гринкарға қатысты нәрселерді жинамақпын. 
+
+- [Day by day](/greencard/days/)
+- [Көлік](/greencard/car/)
+- Құжаттар
