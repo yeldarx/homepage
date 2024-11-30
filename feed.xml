@@ -666,5 +666,26 @@ Your browser does not support the audio element.
         <dc:creator>Елдар Құдайбергенов</dc:creator>
         <guid>https://yeldar.org/blog/audioblog-121/</guid>
       </item>
+      <item>
+        <title>Бағдарламалау бойынша тегін онлайн курстар</title>
+        <link>https://yeldar.org/blog/free-dev-courses/</link>
+        <description>&lt;p&gt;Бұл бетте бағдарламалау бойынша тегін немесе дерлік-тегін онлайн курстарды жинаймын. Олар көбіне ағылшын тілінде. Тізімге үлес қосамын десеңіз мархабат.&lt;/p&gt;
+&lt;img class=&quot;right-float-photo&quot; src=&quot;https://yeldar.org/blog/images/2024/2014-work-table.jpg&quot; /&gt;
+&lt;p&gt;&lt;em&gt;Менің жұмыс үстелім. 2014 жыл. Алматы&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.theodinproject.com/&quot;&gt;The Odin Project&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fullstackopen.com/en/&quot;&gt;Full Stack open&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://futurecoder.io/&quot;&gt;futurecoder&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://launchschool.com/&quot;&gt;Launch School&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://exercism.org/&quot;&gt;Exercism&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.freecodecamp.org/&quot;&gt;freeCodeCamp&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; – дерлік тегін.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Осыған ұқсас алғашқы тізім: &amp;quot;&lt;a href=&quot;https://yeldar.org/blog/for-startupers/&quot;&gt;Стартап бастағыңыз келсе, стартап академиясына келіңіз&lt;/a&gt;&amp;quot;.&lt;/p&gt;
+&lt;!-- *Last update: Nov 30, 2024.* --&gt;</description>
+        <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+        <dc:creator>Елдар Құдайбергенов</dc:creator>
+        <guid>https://yeldar.org/blog/free-dev-courses/</guid>
+      </item>
   </channel>
 </rss>
