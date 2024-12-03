@@ -11,7 +11,7 @@ tags:
 
 <img class="right-float-photo" src="/blog/images/2024/2014-work-table.jpg">
 
-*Менің жұмыс үстелім. 2014 жыл. Алматы*
+*Менің жұмыс үстелім. 2013 жыл. Алматы*
 
 - [The Odin Project](https://www.theodinproject.com);
 - [Full Stack open](https://fullstackopen.com/en/);
