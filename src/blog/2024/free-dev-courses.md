@@ -16,10 +16,10 @@ tags:
 - [The Odin Project](https://www.theodinproject.com);
 - [Full Stack open](https://fullstackopen.com/en/);
 - [futurecoder](https://futurecoder.io/);
-- [Launch School](https://launchschool.com/);
+- [Launch School](https://launchschool.com/) – дерлік тегін.;
 - [Exercism](https://exercism.org/);
 - [freeCodeCamp](https://www.freecodecamp.org/);
-- [Codecademy](https://www.codecademy.com) – дерлік тегін.
+- [Codecademy](https://www.codecademy.com) – дерлік тегін. Биыл про аккаунт сатып алдым. Әзірге бағасына тұрарлықтай.
 
 Осындай курстарды бірге өтемін десеңіз бағдарламалауды өздігінен үйренушілер қауымдастығына қосылыңыз: [Self-taught Devs 🇰🇿](https://t.me/stdevs).
 
