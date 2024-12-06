@@ -15,6 +15,7 @@ tags:
 
 - [The Odin Project](https://www.theodinproject.com);
 - [Full Stack open](https://fullstackopen.com/en/);
+- [Python Programming MOOC 2024](https://programming-24.mooc.fi/) + [MOOC.FI](https://www.mooc.fi/en/);
 - [futurecoder](https://futurecoder.io/);
 - [Launch School](https://launchschool.com/) – дерлік тегін.;
 - [Exercism](https://exercism.org/);
