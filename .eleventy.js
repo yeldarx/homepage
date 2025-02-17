@@ -26,6 +26,7 @@ module.exports = function(eleventyConfig) {
     
     eleventyConfig.addPassthroughCopy("src/assets");
     eleventyConfig.addPassthroughCopy("src/blog/images");
+    eleventyConfig.addPassthroughCopy({"src/sections/greencard/days/images": "greencard/images"});
     eleventyConfig.addPassthroughCopy("src/robots.txt");
 
     return {
