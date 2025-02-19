@@ -16,3 +16,14 @@ eleventyNavigation:
 - [Day by day](./days/)
 - [Пайдалы сілтемелер](./links)
 - [Сұрау-жауап](./qna/)
+
+### Гринкарта туралы посттар
+
+{% for post in collections.greencard %}
+  <div class="post">
+    <p>
+      <span class="post-date">{{ post.data.date | postDate }}</span> 
+      <a href="{{ post.url }}" class="post-title">{{ post.data.title }}</a>
+    </p>
+  </div>
+{% endfor %}
