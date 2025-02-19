@@ -17,6 +17,10 @@ module.exports = function(eleventyConfig) {
         return collectionApi.getFilteredByTag("blog").sort((a, b) => b.date - a.date);
       });
 
+    eleventyConfig.addCollection("greencard", function(collectionApi) {
+        return collectionApi.getFilteredByTag("greencard").filter(post => post.data.date).reverse();
+      });
+
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addFilter("postDate", (dateObj) => {
