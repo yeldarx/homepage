@@ -3,4 +3,4 @@ permalink: "greencard/qna/"
 layout: greencard.njk
 ---
 
-greencard q&a
+Бұл бетте гринкарта, иммиграция туралы сұрақтар мен олардың жауаптарын жариялаймын.
