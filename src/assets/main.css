@@ -16,6 +16,14 @@ body {
       font-size: 11pt;
   }
 
+  .home-link {
+    margin-bottom: 10px;
+  }
+
+  .icon-links {
+    margin-bottom: 10px;
+  }
+
   .post-info{
     color: #7d7d7d;
     font-size: small;
