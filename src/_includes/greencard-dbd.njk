@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ metadata.title }} – {{ metadata.description }}</title>
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <div class="header-content">
+        <img
+          src="/assets/img/yeldar-li.webp"
+          alt="Елдар Құдайбергенов фото"
+          class="profile-photo"
+          width="50"
+          height="50"
+        />
+        <div>
+          <a class="site-title-link" href="{{ metadata.url }}"
+            ><h1 class="site-title">{{ metadata.title }}</h1></a
+          >
+          <p class="site-description">{{ metadata.description }}</p>
+        </div>
+      </div>
+    </header>
+    
+    <div class="line"></div>
+
+    <!-- Table of Contents (TOC) -->
+    {% set headers = content | safe | replace('<h2', '\n<h2') | replace('<h3', '\n<h3') | split('\n') %}
+    {% if headers | length > 1 %}
+      <nav class="toc">
+      <h2>Осы беттің мазмұны</h2>
+        <ul>
+          {% for header in headers %}
+            {% if '<h2' in header %}
+              {% set id = 'toc' ~ loop.index %}
+              <li><a href="#{{ id }}">{{ header | striptags }}</a></li>
+            {% elif '<h3' in header %}
+              {% set id = 'toc' ~ loop.index %}
+              <li style="margin-left: 15px;"><a href="#{{ id }}">{{ header | striptags }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
+
+
+    {% set content_with_anchors = content %}
+    {% for header in headers %}
+      {% set id = 'toc' ~ loop.index %}
+      {% set new_header = header | replace('<h2', '<h2 id="' ~ id ~ '"') | replace('<h3', '<h3 id="' ~ id ~ '"') %}
+      {% set content_with_anchors = content_with_anchors | replace(header, new_header) %}
+    {% endfor %}
+
+    <main>{{ content_with_anchors | safe }}</main>
+
+    <footer class="footer">
+      <div class="home-link">
+        <nav class="navigation-container">
+          <ul class="navigation">
+            {% for item in collections.all | eleventyNavigation %}
+              <li>
+                <a href="{{ item.url }}">{{ item.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+
+      <div class="icon-links icon-margin">
+        <a href="/feed.xml" title="RSS Feed">
+          <img src="/assets/img/rss.svg" alt="RSS Feed" />
+        </a>
+      </div>
+    </footer>
+  </body>
+</html>

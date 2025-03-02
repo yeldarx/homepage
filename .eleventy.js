@@ -3,6 +3,11 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function(eleventyConfig) {
+
+    eleventyConfig.addFilter("split", function(str, separator) {
+        return str.split(separator);
+    });
+    
     eleventyConfig.addGlobalData("metadata", require("./src/_data/metadata.js"));
 
     eleventyConfig.addFilter("getAllTags", collection => {
