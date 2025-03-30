@@ -32,5 +32,5 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "public"
           strip_components: 1
-          target: "/home/yelda2r/web/yeldar.org/public_html"
+          target: "/home/yeldar2/web/yeldar.org/public_html"
           rm: true
