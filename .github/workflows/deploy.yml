@@ -30,5 +30,6 @@ jobs:
           host: 5.78.141.123
           username: yeldar
           key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: "public/*"
+          source: "public"
+          strip_components: 1
           target: "/home/yeldar/web/yeldar.org/public_html"
