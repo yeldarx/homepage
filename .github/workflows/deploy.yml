@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy to Server
 
 on:
   push:
@@ -6,33 +6,29 @@ on:
       - main
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: "18"
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build the site
+      - name: Build Eleventy site
         run: npx eleventy
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Copy site to remote server via SCP
+        uses: appleboy/scp-action@master
         with:
-          personal_token: ${{ secrets.GH_PAT }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          allow_empty_commit: false
-          keep_files: false
-          force_orphan: false
-          enable_jekyll: false
-          disable_nojekyll: false
-          exclude_assets: .github
+          host: 5.78.141.123
+          username: yeldar
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          source: "public/*"
+          target: "/var/www/yeldar.org/public_html"
