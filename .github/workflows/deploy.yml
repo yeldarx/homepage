@@ -31,4 +31,4 @@ jobs:
           username: yeldar
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "public/*"
-          target: "/var/www/yeldar.org/public_html"
+          target: "/home/yeldar/web/yeldar.org/public_html"
