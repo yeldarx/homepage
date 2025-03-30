@@ -32,4 +32,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "public"
           strip_components: 1
-          target: "/home/yeldar/web/yeldar.org/public_html"
+          target: "/home/web/yeldar.org/public_html"
