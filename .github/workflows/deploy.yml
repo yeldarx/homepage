@@ -32,6 +32,3 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "public/*"
           target: "/home/yk/web/yeldar.org/public_html"
-          rm: true
-      - name: Done!
-        run: echo "Deployed successfully!"
