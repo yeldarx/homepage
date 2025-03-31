@@ -28,8 +28,10 @@ jobs:
         uses: appleboy/scp-action@master
         with:
           host: 5.78.141.123
-          username: yeldar
+          username: yk
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "public/*"
-          target: "/home/yeldar/web/yeldar.org/public_html"
+          target: "/home/yk/web/yeldar.org/public_html"
           rm: true
+      - name: Done!
+        run: echo "Deployed successfully!"
