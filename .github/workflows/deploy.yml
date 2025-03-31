@@ -24,6 +24,11 @@ jobs:
       - name: Build Eleventy site
         run: npx eleventy
 
-      - name: Copy files manually via rsync over SSH
+      - name: Save SSH key
         run: |
-          rsync -avz -e "ssh -i ~/.ssh/github_key -o StrictHostKeyChecking=no" ./public/ yk@5.78.141.123:/home/yk/web/yeldar.org/public_html/
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > private_key
+          chmod 600 private_key
+
+      - name: Deploy via rsync
+        run: |
+          rsync -avz -e "ssh -i private_key -o StrictHostKeyChecking=no" ./public/ yk@5.78.141.123:/home/yk/web/yeldar.org/public_html/
