@@ -24,11 +24,17 @@ jobs:
       - name: Build Eleventy site
         run: npx eleventy
 
-      - name: Save SSH key
+      - name: Add SSH known_hosts
         run: |
-          echo "${{ secrets.SSH_PRIVATE_KEY }}" > private_key
-          chmod 600 private_key
+          mkdir -p ~/.ssh
+          ssh-keyscan -H 5.78.141.123 >> ~/.ssh/known_hosts
 
-      - name: Deploy via rsync
-        run: |
-          rsync -avz -e "ssh -i private_key -o StrictHostKeyChecking=no" ./public/ yk@5.78.141.123:/home/yk/web/yeldar.org/public_html/
+      - name: Deploy
+        uses: appleboy/ssh-action@master
+        with:
+          host: 5.78.141.123
+          username: yk
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          script: |
+            rsync -avz ./public/ /home/yk/web/yeldar.org/public_html/
